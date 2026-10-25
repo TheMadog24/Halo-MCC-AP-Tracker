@@ -1,57 +1,307 @@
-[
-  {
-    "name": "Example Parent",
-    "children": [
-      {
-        "name": "Example Location 1",
-        "access_rules": [
-          //read as: progressive_2 or toggle
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "Example Section 1",
-            "item_count": 1
-          },
-          {
-            "name": "Example Section 2",
-            "item_count": 3
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "map1",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "map2",
-            "x": 1000,
-            "y": 500
-          }
+[{
+        "name": "Overview",
+        "children": [{
+                "name": "HALO: CE",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [{
+                        "name": "The Pillar of Autumn",
+                        "item_count": 1
+                    }, {
+                        "name": "Halo",
+                        "item_count": 1
+                    }, {
+                        "name": "The Truth and Reconciliation",
+                        "item_count": 1
+                    }, {
+                        "name": "The Silent Cartographer",
+                        "item_count": 1
+                    }, {
+                        "name": "343 Guilty Spark",
+                        "item_count": 1
+                    }, {
+                        "name": "The Library",
+                        "item_count": 1
+                    }, {
+                        "name": "Two Betrayals",
+                        "item_count": 1
+                    }, {
+                        "name": "Keyes",
+                        "item_count": 1
+                    }, {
+                        "name": "The Maw",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 52,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO: REACH",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 438,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 2",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 825,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 3",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 1211,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 3: ODST",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 1598,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 4",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 1984,
+                        "y": 552
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "name": "Example Location 2",
-        "access_rules": [
-          //read as: progressive_toggle_2 and has more than 4 consumable
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
-        "sections": [
-          {
-            "name": "Example Section 1",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "map1",
-            "x": 1500,
-            "y": 400
-          }
-        ]
-      }
+    },
+	{
+    "name": "Halo CE",
+    "children": [{
+            "name": "The Pillar of Autumn",
+            "access_rules": [
+                //read as: progressive_2 or toggle
+                "progressive_2",
+                "toggle"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 400,
+                    "y": 415                }
+				
+            ]
+        }, {
+            "name": "Halo",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 1069,
+                    "y": 415                }
+            ]
+        }, {
+            "name": "The Truth and Reconciliation",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 1736,
+                    "y": 415                }
+            ]
+        }, {
+            "name": "The Silent Cartographer",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 400,
+                    "y": 874
+                }
+            ]
+        }, {
+            "name": "Assault on the Control Room",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 1069,
+                    "y": 871
+                }
+            ]
+        }, {
+            "name": "343 Guildy Spark",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 1736,
+                    "y": 871
+                }
+            ]
+        }, {
+            "name": "The Library",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 400,
+                    "y": 1331
+                }
+            ]
+        }, {
+            "name": "Two Betrayals",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 1069,
+                    "y": 1331
+                }
+            ]
+        }, {
+            "name": "Keys",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 1736,
+                    "y": 1331
+                }
+            ]
+        }, {
+            "name": "The Maw",
+            "access_rules": [
+                //read as: progressive_toggle_2 and has more than 4 consumable
+                "progressive_toggle_2, $has_more_then_n_consumable|4"
+            ],
+            "sections": [{
+                    "name": "Start",
+                    "item_count": 1
+                }
+            ],
+            "map_locations": [{
+                    "map": "Halo CE",
+                    "x": 1069,
+                    "y": 1790
+                }
+            ]
+        }
     ]
-  }
-]
+}]
+

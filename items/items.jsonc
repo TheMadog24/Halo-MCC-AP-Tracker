@@ -1,56 +1,159 @@
 [
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
-  {
-    "name": "Toggle",
-    "type": "toggle",
-    "img": "images/items/toggle.png",
-    "codes": "toggle"
-  },
-  {
-    "name": "Progressive",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_2",
-        "inherit_codes": false
-      }
-    ]
-  },
-  {
-    "name": "Consumable",
-    "type": "consumable",
-    "img": "images/items/consumable.png",
-    "max_quantity": 8,
-    "increment": 1,
-    "decrement": 1,
-    "initial_quantity": 1,
-    "overlay_background": "#000000",
-    "overlay_font_size": 8,
-    "codes": "consumable"
-  },
-  {
-    "name": "Progressive Toggle",
-    "type": "progressive_toggle",
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive_toggle",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_toggle_2",
-        "inherit_codes": false
-      }
-    ]
-  }
+    //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+    {
+        "name": "Iron Skull",
+        "type": "toggle",
+        "img": "images/items/Iron.png",
+        "codes": "Skull_Iron"
+    }, {
+        "name": "Malfunction Skull",
+        "type": "toggle",
+        "img": "images/items/Malfunction.png",
+        "codes": "Skull_Malfunction"
+    }, {
+        "name": "Mythic Skull",
+        "type": "toggle",
+        "img": "images/items/Mythic.png",
+        "codes": "Skull_Mythic"
+    }, {
+        "name": "Piñata Skull",
+        "type": "toggle",
+        "img": "images/items/Piñata.png",
+        "codes": "Skull_Piñata"
+    }, {
+        "name": "Recession Skull",
+        "type": "toggle",
+        "img": "images/items/Recession.png",
+        "codes": "Skull_Recession"
+    }, {
+        "name": "Sputnik Skull",
+        "type": "toggle",
+        "img": "images/items/Sputnik.png",
+        "codes": "Skull_Sputnik"
+    }, {
+        "name": "That's Just Wrong Skull",
+        "type": "toggle",
+        "img": "images/items/That's Just Wrong.png",
+        "codes": "Skull_That's_Just_Wrong"
+    }, {
+        "name": "Thunderstorm Skull",
+        "type": "toggle",
+        "img": "images/items/Thunderstorm.png",
+        "codes": "Skull_Thunderstorm"
+    }, {
+        "name": "Tough Luck Skull",
+        "type": "toggle",
+        "img": "images/items/Tough Luck.png",
+        "codes": "Skull_Tough_Luck"
+    }, {
+        "name": "Acrophobia Skull",
+        "type": "toggle",
+        "img": "images/items/Acrophobia.png",
+        "codes": "Skull_Acrophobia"
+    }, {
+        "name": "Anger Skull",
+        "type": "toggle",
+        "img": "images/items/Anger.png",
+        "codes": "Skull_Anger"
+    }, {
+        "name": "Bandanna Skull",
+        "type": "toggle",
+        "img": "images/items/Bandanna.png",
+        "codes": "Skull_Bandanna"
+    }, {
+        "name": "Black Eye Skull",
+        "type": "toggle",
+        "img": "images/items/Black Eye.png",
+        "codes": "Skull_Black_Eye"
+    }, {
+        "name": "Blind Skull",
+        "type": "toggle",
+        "img": "images/items/Blind.png",
+        "codes": "Skull_Blind"
+    }, {
+        "name": "Boom Skull",
+        "type": "toggle",
+        "img": "images/items/Boom.png",
+        "codes": "Skull_Boom"
+    }, {
+        "name": "Catch Skull",
+        "type": "toggle",
+        "img": "images/items/Catch.png",
+        "codes": "Skull_Catch"
+    }, {
+        "name": "Eye Patch Skull",
+        "type": "toggle",
+        "img": "images/items/Eye Patch.png",
+        "codes": "Skull_Eye_Patch"
+    }, {
+        "name": "Famine Skull",
+        "type": "toggle",
+        "img": "images/items/Famine.png",
+        "codes": "Skull_Famine"
+    }, {
+        "name": "Fog Skull",
+        "type": "toggle",
+        "img": "images/items/Fog.png",
+        "codes": "Skull_Fog"
+    }, {
+        "name": "Foreign Skull",
+        "type": "toggle",
+        "img": "images/items/Foreign.png",
+        "codes": "Skull_Foreign"
+    }, {
+        "name": "Ghost Skull",
+        "type": "toggle",
+        "img": "images/items/Ghost.png",
+        "codes": "Skull_Ghost"
+    }, {
+        "name": "Grunt Birthday Party Skull",
+        "type": "toggle",
+        "img": "images/items/Grunt Birthday Party.png",
+        "codes": "Skull_Grunt_Birthday_Party"
+    }, {
+        "name": "Grunt Funeral Skull",
+        "type": "toggle",
+        "img": "images/items/Grunt Funeral.png",
+        "codes": "Skull_Grunt_Funeral"
+    }, {
+        "name": "Progressive",
+        "type": "progressive",
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "stages": [{
+                "img": "images/items/progressive.png",
+                "codes": "progressive",
+                "inherit_codes": false
+            }, {
+                "img": "images/items/progressive_2.png",
+                "codes": "progressive_2",
+                "inherit_codes": false
+            }
+        ]
+    }, {
+        "name": "Consumable",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 8,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_background": "#000000",
+        "overlay_font_size": 8,
+        "codes": "consumable"
+    }, {
+        "name": "Progressive Toggle",
+        "type": "progressive_toggle",
+        "initial_stage_idx": 0,
+        "stages": [{
+                "img": "images/items/progressive.png",
+                "codes": "progressive_toggle",
+                "inherit_codes": false
+            }, {
+                "img": "images/items/progressive_2.png",
+                "codes": "progressive_toggle_2",
+                "inherit_codes": false
+            }
+        ]
+    }
 ]

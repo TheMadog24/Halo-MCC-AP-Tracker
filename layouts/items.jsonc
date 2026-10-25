@@ -1,33 +1,55 @@
 {
-  // sets layouts for shadred items grids
-  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
-  "shared_item_grid": {
-    "type": "array",
-    "orientation": "vertical",
-    "margin": "0,0",
-    "content": [
-      {
+    // sets layouts for shadred items grids
+    // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+    "shared_item_grid": {
         "type": "array",
         "orientation": "horizontal",
         "margin": "0,0",
-        "content": [
-          {
-            "type": "itemgrid",
-            "item_margin": "10, 10",
-            "h_alignment": "left",
-            "rows": [
-              [
-                "toggle",
-                "progressive"
-              ],
-              [
-                "consumable",
-                "progressive_toggle"
-              ]
-            ]
-          }
+        "content": [{
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [{
+                        "type": "text",
+                        "text": "Scoring Skulls"
+                    }, {
+                        "type": "itemgrid",
+                        "item_size": "75, 75",
+                        "item_margin": "0, 0",
+						"item_h_alignment": "center",
+						"item_v_alignment": "center",
+                        "h_alignment": "left",
+                        "rows": [
+                            ["Skull_Anger", "Skull_Black_Eye", "Skull_Blind"],
+                            ["Skull_Catch", "Skull_Eye_Patch", "Skull_Famine"],
+                            ["Skull_Fog", "Skull_Foreign", "Skull_Iron"],
+                            ["Skull_Mythic", "Skull_Recession", "Skull_That's_Just_Wrong"],
+                            ["Skull_Thunderstorm", "Skull_Tough_Luck"]
+                        ]
+                    }
+                ]
+            }, {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [{
+                        "type": "text",
+                        "text": "Non-Scoring Skulls"
+                    }, {
+                        "type": "itemgrid",
+                        "item_size": "75, 75",
+                        "item_margin": "5, 5",
+						"item_h_alignment": "center",
+						"item_v_alignment": "center",
+                        "h_alignment": "left",
+                        "rows": [
+                            ["Skull_Acrophobia", "Skull_Bandanna", "Skull_Boom"],
+                            ["Skull_Ghost", "Skull_Grunt_Birthday_Party", "Skull_Grunt_Funeral"],
+                            ["Skull_Malfunction", "Skull_Piñata", "Skull_Sputnik"]
+                        ]
+                    }
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
