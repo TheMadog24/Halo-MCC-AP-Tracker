@@ -22,6 +22,7 @@ ScriptHost:LoadScript("scripts/logic/logic.lua")
 Tracker:AddLocations("locations/Overview.json")
 Tracker:AddLocations("locations/Halo CE.json")
 Tracker:AddLocations("locations/Halo Reach.json")
+Tracker:AddLocations("locations/Halo 2.json")
 
 -- Custom Items
 ScriptHost:LoadScript("scripts/custom_items/class.lua")

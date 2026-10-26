@@ -48,6 +48,14 @@
                                     "Halo Reach"
                                 ]
                             }
+                        }, {
+                            "title": "Halo 2",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Halo 2"
+                                ]
+                            }
                         }
                     ]
                 }

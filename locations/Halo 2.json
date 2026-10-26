@@ -1,0 +1,308 @@
+[{
+        "name": "Halo 2",
+        "children": [{
+                "name": "The Heretic",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [ {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 199,
+                        "y": 204
+                    }
+
+                ]
+            }, {
+                "name": "The Armory",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "That's Just... Wrong Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 533,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "Cairo Station",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Thunderstorm Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 867,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "Outskirts",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Blind Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "IWHBYD Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 199,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Metropolis",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Catch Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 533,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "The Arbiter",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Grunt Birthday Party Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 867,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "The Oracle",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Famine Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 199,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "Delta Halo",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Envy Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 533,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "Regret",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Assassins Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 867,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "Sacred Icon",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Mythic Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 199,
+                        "y": 894
+                    }
+                ]
+            }, {
+                "name": "Quarantine Zone",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Sputnik Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 533,
+                        "y": 894
+                    }
+                ]
+            }, {
+                "name": "Gravemind",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Anger Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 867,
+                        "y": 894
+                    }
+                ]
+            }, {
+                "name": "Uprising",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Ghost Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 199,
+                        "y": 1123
+                    }
+                ]
+            }, {
+                "name": "High Charity",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Iron Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 533,
+                        "y": 1123
+                    }
+                ]
+            }, {
+                "name": "The Great Journey",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Black Eye Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 2",
+                        "x": 867,
+                        "y": 1123
+                    }
+                ]
+            }
+        ]
+    }
+]
