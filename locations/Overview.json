@@ -42,81 +42,51 @@
                         "y": 552
                     }
                 ]
-            },{
-                "name": "HALO: CE Skulls",
+            }, {
+                "name": "HALO: CE Skull Locations",
                 "access_rules": [
                     //read as: progressive_2 or toggle
                     "progressive_2",
                     "toggle"
                 ],
                 "sections": [{
-                        "name": "Anger",
-                        "item_count": 1
-                    }, {
-                        "name": "Black Eye",
-                        "item_count": 1
-                    }, {
-                        "name": "Blind",
-                        "item_count": 1
-                    }, {
-                        "name": "Catch",
-                        "item_count": 1
-                    }, {
-                        "name": "Eye Patch",
-                        "item_count": 1
-                    }, {
-                        "name": "Famine",
-                        "item_count": 1
-                    }, {
-                        "name": "Fog",
-                        "item_count": 1
-                    }, {
-                        "name": "Foreign",
-                        "item_count": 1
-                    }, {
                         "name": "Iron",
                         "item_count": 1
                     }, {
                         "name": "Mythic",
                         "item_count": 1
                     }, {
-                        "name": "Recession",
-                        "item_count": 1
-                    }, {
-                        "name": "That's Just Wrong",
-                        "item_count": 1
-                    }, {
-                        "name": "Thunderstorm",
-                        "item_count": 1
-                    }, {
-                        "name": "Tough Luck",
-                        "item_count": 1
-                    }, {
-                        "name": "Acrophobia",
-                        "item_count": 1
-                    }, {
-                        "name": "Bandanna",
-                        "item_count": 1
-                    }, {
                         "name": "Boom",
                         "item_count": 1
                     }, {
-                        "name": "Ghost",
+                        "name": "Foreign",
                         "item_count": 1
                     }, {
-                        "name": "Grunt Birthday Party",
+                        "name": "Famine",
                         "item_count": 1
                     }, {
-                        "name": "Grunt Funeral",
+                        "name": "Bandana",
+                        "item_count": 1
+                    }, {
+                        "name": "Fog",
                         "item_count": 1
                     }, {
                         "name": "Malfunction",
                         "item_count": 1
                     }, {
-                        "name": "Piñata",
+                        "name": "Recession",
                         "item_count": 1
                     }, {
-                        "name": "Sputnik",
+                        "name": "Black Eye",
+                        "item_count": 1
+                    }, {
+                        "name": "Eye Patch",
+                        "item_count": 1
+                    }, {
+                        "name": "Pinata",
+                        "item_count": 1
+                    }, {
+                        "name": "Grunt Birthday Party",
                         "item_count": 1
                     }
                 ],
@@ -177,7 +147,49 @@
                     "progressive_toggle_2, $has_more_then_n_consumable|4"
                 ],
                 "sections": [{
-                        "name": "Example Section 1",
+                        "name": "The Heretic",
+                        "item_count": 1
+                    }, {
+                        "name": "The Armory",
+                        "item_count": 1
+                    }, {
+                        "name": "Cairo Station",
+                        "item_count": 1
+                    }, {
+                        "name": "Outskirts",
+                        "item_count": 1
+                    }, {
+                        "name": "Metropolis",
+                        "item_count": 1
+                    }, {
+                        "name": "The Arbiter",
+                        "item_count": 1
+                    }, {
+                        "name": "The Oracle",
+                        "item_count": 1
+                    }, {
+                        "name": "Delta Halo",
+                        "item_count": 1
+                    }, {
+                        "name": "Regret",
+                        "item_count": 1
+                    }, {
+                        "name": "Sacred Icon",
+                        "item_count": 1
+                    }, {
+                        "name": "Quarantine Zone",
+                        "item_count": 1
+                    }, {
+                        "name": "Gravemind",
+                        "item_count": 1
+                    }, {
+                        "name": "Uprising",
+                        "item_count": 1
+                    }, {
+                        "name": "High Charity",
+                        "item_count": 1
+                    }, {
+                        "name": "The Great Journey",
                         "item_count": 1
                     }
                 ],
@@ -185,6 +197,66 @@
                         "map": "Overview",
                         "x": 825,
                         "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 2 Skull Locations",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [{
+                        "name": "That's Just... Wrong",
+                        "item_count": 1
+                    }, {
+                        "name": "Thunderstorm",
+                        "item_count": 1
+                    }, {
+                        "name": "Blind",
+                        "item_count": 1
+                    }, {
+                        "name": "IWHBYD",
+                        "item_count": 1
+                    }, {
+                        "name": "Catch",
+                        "item_count": 1
+                    }, {
+                        "name": "Grunt Birthday Party",
+                        "item_count": 1
+                    }, {
+                        "name": "Famine",
+                        "item_count": 1
+                    }, {
+                        "name": "Envy",
+                        "item_count": 1
+                    }, {
+                        "name": "Assassins",
+                        "item_count": 1
+                    }, {
+                        "name": "Mythic",
+                        "item_count": 1
+                    }, {
+                        "name": "Sputnik",
+                        "item_count": 1
+                    }, {
+                        "name": "Anger",
+                        "item_count": 1
+                    }, {
+                        "name": "Ghost",
+                        "item_count": 1
+                    }, {
+                        "name": "Iron",
+                        "item_count": 1
+                    }, {
+                        "name": "Black Eye",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 825,
+                        "y": 600
                     }
                 ]
             }, {
@@ -240,5 +312,5 @@
                 ]
             }
         ]
-    }]
-
+    }
+]
