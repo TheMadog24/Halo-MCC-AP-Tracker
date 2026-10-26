@@ -8,52 +8,74 @@
             "type": "dock",
             "dropshadow": true,
             "content": [{
-                    "type": "dock",
-                    "dock": "bottom",
-                    "content": [{
-                            "type": "container",
-                            "dock": "bottom",
-                            "margin": "0,0,0,0",
-                            "content": {
-                                "type": "layout",
-                                "h_alignment": "stretch",
-                                "v_alignment": "center",
-                                "key": "shared_item_grid"
-                            }
-                        }
-                    ]
-                }, {
                     "type": "tabbed",
                     "tabs": [{
                             "title": "Halo MCC Games",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Overview"
+                                "type": "dock",
+								"content": [
+								{
+									"type": "container",
+									"dock": "bottom",
+									"content": {
+                                        "type": "layout",
+                                        "key": "shared_item_grid"
+									}
+								}, {
+                                        "type": "map",
+                                        "maps": ["Overview"]
+                                    }
                                 ]
                             }
                         }, {
                             "title": "Halo CE",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Halo CE"
+                                "type": "dock",
+								"content": [{
+									"type": "container",
+									"dock": "bottom",
+									"content": {
+                                        "type": "layout",
+                                        "key": "Halo_CE_Skulls"
+									}
+								}, {
+                                        "type": "map",
+                                        "maps": ["Halo CE"]
+                                    }
                                 ]
                             }
                         }, {
                             "title": "Halo Reach",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Halo Reach"
+                                "type": "dock",
+								"content": [{
+									"type": "container",
+									"dock": "bottom",
+									"content": {
+                                        "type": "layout",
+                                        "key": "Halo_Reach_Skulls"
+									}
+								}, {
+                                        "type": "map",
+                                        "maps": ["Halo Reach"]
+                                    }
                                 ]
                             }
                         }, {
                             "title": "Halo 2",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Halo 2"
+                                "type": "dock",
+								"content": [{
+									"type": "container",
+									"dock": "bottom",
+									"content": {
+                                        "type": "layout",
+                                        "key": "Halo_2_Skulls"
+									}
+								}, {
+                                        "type": "map",
+                                        "maps": ["Halo 2"]
+                                    }
                                 ]
                             }
                         }

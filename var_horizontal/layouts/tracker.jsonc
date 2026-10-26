@@ -8,33 +8,41 @@
             "type": "dock",
             "dropshadow": true,
             "content": [{
-                    "type": "dock",
-                    "dock": "left",
-                    "content": [{
-                            "type": "container",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "shared_item_grid"
-                            }
-                        }
-                    ]
-                }, {
                     "type": "tabbed",
                     "tabs": [{
                             "title": "Halo MCC Games",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Overview"
+                                "type": "dock",
+								"content": [
+								{
+									"type": "container",
+									"dock": "left",
+									"content": {
+                                        "type": "layout",
+                                        "key": "shared_item_grid"
+									}
+								}, {
+                                        "type": "map",
+                                        "maps": ["Overview"]
+                                    }
                                 ]
                             }
                         }, {
                             "title": "Halo CE",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Halo CE"
+                                "type": "left",
+								"content": [
+								{
+									"type": "container",
+									"dock": "bottom",
+									"content": {
+                                        "type": "layout",
+                                        "key": "Halo_CE_Skulls"
+									}
+								}, {
+                                        "type": "map",
+                                        "maps": ["Halo CE"]
+                                    }
                                 ]
                             }
                         }, {
@@ -43,6 +51,14 @@
                                 "type": "map",
                                 "maps": [
                                     "Halo Reach"
+                                ]
+                            }
+                        }, {
+                            "title": "Halo 2",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Halo 2"
                                 ]
                             }
                         }

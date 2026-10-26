@@ -1,10 +1,11 @@
 {
     // sets layouts for shadred items grids
     // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
-    "shared_item_grid": {
+    "Halo_2_Skulls": {
         "type": "array",
         "orientation": "horizontal",
         "margin": "0,0",
+        "h_alignment": "stretch",
         "content": [{
                 "type": "array",
                 "orientation": "vertical",
@@ -14,17 +15,16 @@
                         "header": "Scoring Skulls",
                         "content": {
                             "type": "itemgrid",
-                            "item_size": "60, 60",
+                            "item_size": "75, 75",
                             "item_margin": "0, 0",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
                             "h_alignment": "left",
                             "rows": [
-                                ["Skull_Anger", "Skull_Black_Eye", "Skull_Blind"],
-                                ["Skull_Catch", "Skull_Eye_Patch", "Skull_Famine"],
-                                ["Skull_Fog", "Skull_Foreign", "Skull_Iron"],
-                                ["Skull_Mythic", "Skull_Recession", "Skull_That's_Just_Wrong"],
-                                ["Skull_Thunderstorm", "Skull_Tough_Luck"]
+                                ["Skull_2_Anger", "Skull_2_Assassins", "Skull_2_Black_Eye", "Skull_2_Blind", "Skull_2_Catch", "Skull_2_Eye_Patch"],
+                                ["Skull_2_Famine", "Skull_2_Fog", "Skull_2_Iron", "Skull_2_Jacked", "Skull_2_Masterblaster", "Skull_2_Mythic"],
+                                ["Skull_2_Recession", "Skull_2_So_Angry", "Skull_2_Streaking", "Skull_2_Swarm", "Skull_2_That's_Just_Wrong", "Skull_2_They_Come_Back"],
+                                ["Skull_2_Thunderstorm"]
                             ]
                         }
                     }
@@ -36,19 +36,18 @@
                 "content": [{
                         "type": "group",
                         "header": "Non-Scoring Skulls",
-                        "header": "Non-Scoring Skulls",
                         "content": {
                             "type": "itemgrid",
-                            "item_size": "60, 60",
+                            "item_size": "75, 75",
                             "item_margin": "0, 0",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
                             "h_alignment": "left",
                             "rows": [
-								["Skull_Acrophobia", "Skull_Bandanna", "Skull_Boom"],
-								["Skull_Ghost", "Skull_Grunt_Birthday_Party", "Skull_Grunt_Funeral"],
-								["Skull_Malfunction", "Skull_Piñata", "Skull_Sputnik"]
-                        ]
+                                ["Skull_2_Bandanna", "Skull_2_Bonded_Pair", "Skull_2_Boom", "Skull_2_Envy", "Skull_2_Feather", "Skull_2_Ghost"],
+                                ["Skull_2_Grunt_Birthday_Party", "Skull_2_Grunt_Funeral", "Skull_2_IWHBYD", "Skull_2_Malfunction", "Skull_2_Piñata", "Skull_2_Prophet_Birthday_Party"],
+                                ["Skull_2_Scarab", "Skull_2_Sputnik", "Skull_2_Acrophobia"]
+                            ]
                         }
                     }
                 ]

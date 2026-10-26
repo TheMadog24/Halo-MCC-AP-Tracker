@@ -31,6 +31,9 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
 Tracker:AddItems("items/items.jsonc")
+Tracker:AddItems("items/Halo_CE_items.json")
+Tracker:AddItems("items/Halo_Reach_items.json")
+Tracker:AddItems("items/Halo_2_items.json")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
@@ -40,9 +43,12 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
 end
 
 -- Layout
-Tracker:AddLayouts("layouts/items.jsonc")
+Tracker:AddLayouts("layouts/shared_items.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
+Tracker:AddLayouts("layouts/Halo_CE_items.json")
+Tracker:AddLayouts("layouts/Halo_Reach_items.json")
+Tracker:AddLayouts("layouts/Halo_2_items.json")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then

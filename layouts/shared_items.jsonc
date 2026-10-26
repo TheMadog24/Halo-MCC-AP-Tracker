@@ -1,0 +1,55 @@
+{
+    // sets layouts for shadred items grids
+    // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [{
+                "type": "group",
+                "header": "All Skulls",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "margin": "0,0",
+                    "content": [{
+                            "type": "group",
+                            "header": "Scoring Skulls",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_size": "75, 75",
+                                "item_margin": "0, 0",
+                                "item_h_alignment": "center",
+                                "item_v_alignment": "center",
+                                "h_alignment": "center",
+                                "rows": [
+                                    ["Skull_Anger", "Skull_Assassins", "Skull_Black_Eye", "Skull_Blind", "Skull_Catch"],
+                                    ["Skull_Eye_Patch", "Skull_Famine", "Skull_Fog", "Skull_Foreign", "Skull_Iron"],
+                                    ["Skull_Jacked", "Skull_Masterblaster", "Skull_Mythic", "Skull_Recession", "Skull_Streaking"],
+                                    ["Skull_That's_Just_Wrong", "Skull_Thunderstorm", "Skull_Tilt", "Skull_Tough_Luck"]
+                                ]
+                            }
+                        }, {
+                            "type": "group",
+                            "header": "Non-Scoring Skulls",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_size": "75, 75",
+                                "item_margin": "0, 0",
+                                "item_h_alignment": "center",
+                                "item_v_alignment": "center",
+                                "h_alignment": "center",
+                                "rows": [
+                                    ["Skull_Bandanna", "Skull_Bonded_Pair", "Skull_Boom", "Skull_Cowbell", "Skull_Envy"],
+                                    ["Skull_Feather", "Skull_Ghost", "Skull_Grunt_Birthday_Party", "Skull_Grunt_Funeral", "Skull_IWHBYD"],
+                                    ["Skull_Malfunction", "Skull_Piñata", "Skull_Prophet_Birthday_Party", "Skull_Scarab", "Skull_So_Angry"],									
+                                    ["Skull_Sputnik", "Skull_Swarm", "Skull_They_Come_Back"]
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
