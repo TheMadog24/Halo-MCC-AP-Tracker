@@ -11,13 +11,12 @@
                     "type": "dock",
                     "dock": "bottom",
                     "content": [{
-                            "type": "group",
-                            "header": "Items",
-                            "dock": "left",
-                            "margin": "0,0,3,0",
+                            "type": "container",
+                            "dock": "bottom",
+                            "margin": "0,0,0,0",
                             "content": {
                                 "type": "layout",
-                                "h_alignment": "center",
+                                "h_alignment": "stretch",
                                 "v_alignment": "center",
                                 "key": "shared_item_grid"
                             }
@@ -41,48 +40,12 @@
                                     "Halo CE"
                                 ]
                             }
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    "tracker_horizontal": {
-        "type": "container",
-        "background": "#000000",
-        "content": {
-            "type": "dock",
-            "dropshadow": true,
-            "content": [{
-                    "type": "dock",
-                    "dock": "left",
-                    "v_alignment": "stretch",
-                    "content": [{
-                            "type": "group",
-                            "header": "Items",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "shared_item_grid"
-                            }
-                        }
-                    ]
-                }, {
-                    "type": "tabbed",
-                    "tabs": [{
-                            "title": "Halo MCC Games",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Overview"
-                                ]
-                            }
                         }, {
-                            "title": "Halo CE",
+                            "title": "Halo Reach",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Halo CE"
+                                    "Halo Reach"
                                 ]
                             }
                         }

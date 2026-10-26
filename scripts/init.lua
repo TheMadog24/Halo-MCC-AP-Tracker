@@ -18,6 +18,11 @@ ScriptHost:LoadScript("scripts/utils.lua")
 -- Logic
 ScriptHost:LoadScript("scripts/logic/logic.lua")
 
+-- Locations
+Tracker:AddLocations("locations/Overview.json")
+Tracker:AddLocations("locations/Halo CE.json")
+Tracker:AddLocations("locations/Halo Reach.json")
+
 -- Custom Items
 ScriptHost:LoadScript("scripts/custom_items/class.lua")
 ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlus.lua")

@@ -1,0 +1,178 @@
+[{
+        "name": "Halo CE",
+        "children": [{
+                "name": "The Pillar of Autumn",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 199,
+                        "y": 204
+                    }
+
+                ]
+            }, {
+                "name": "Halo",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 533,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "The Truth and Reconciliation",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 867,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "The Silent Cartographer",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 199,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Assault on the Control Room",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 533,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "343 Guildy Spark",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 867,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "The Library",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 199,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "Two Betrayals",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 533,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "Keys",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 867,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "The Maw",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo CE",
+                        "x": 533,
+                        "y": 894
+                    }
+                ]
+            }
+        ]
+    }
+]

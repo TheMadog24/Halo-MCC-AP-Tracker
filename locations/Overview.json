@@ -1,0 +1,244 @@
+[{
+        "name": "Overview",
+        "children": [{
+                "name": "HALO: CE",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [{
+                        "name": "The Pillar of Autumn",
+                        "item_count": 1
+                    }, {
+                        "name": "Halo",
+                        "item_count": 1
+                    }, {
+                        "name": "The Truth and Reconciliation",
+                        "item_count": 1
+                    }, {
+                        "name": "The Silent Cartographer",
+                        "item_count": 1
+                    }, {
+                        "name": "343 Guilty Spark",
+                        "item_count": 1
+                    }, {
+                        "name": "The Library",
+                        "item_count": 1
+                    }, {
+                        "name": "Two Betrayals",
+                        "item_count": 1
+                    }, {
+                        "name": "Keyes",
+                        "item_count": 1
+                    }, {
+                        "name": "The Maw",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 52,
+                        "y": 552
+                    }
+                ]
+            },{
+                "name": "HALO: CE Skulls",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [{
+                        "name": "Anger",
+                        "item_count": 1
+                    }, {
+                        "name": "Black Eye",
+                        "item_count": 1
+                    }, {
+                        "name": "Blind",
+                        "item_count": 1
+                    }, {
+                        "name": "Catch",
+                        "item_count": 1
+                    }, {
+                        "name": "Eye Patch",
+                        "item_count": 1
+                    }, {
+                        "name": "Famine",
+                        "item_count": 1
+                    }, {
+                        "name": "Fog",
+                        "item_count": 1
+                    }, {
+                        "name": "Foreign",
+                        "item_count": 1
+                    }, {
+                        "name": "Iron",
+                        "item_count": 1
+                    }, {
+                        "name": "Mythic",
+                        "item_count": 1
+                    }, {
+                        "name": "Recession",
+                        "item_count": 1
+                    }, {
+                        "name": "That's Just Wrong",
+                        "item_count": 1
+                    }, {
+                        "name": "Thunderstorm",
+                        "item_count": 1
+                    }, {
+                        "name": "Tough Luck",
+                        "item_count": 1
+                    }, {
+                        "name": "Acrophobia",
+                        "item_count": 1
+                    }, {
+                        "name": "Bandanna",
+                        "item_count": 1
+                    }, {
+                        "name": "Boom",
+                        "item_count": 1
+                    }, {
+                        "name": "Ghost",
+                        "item_count": 1
+                    }, {
+                        "name": "Grunt Birthday Party",
+                        "item_count": 1
+                    }, {
+                        "name": "Grunt Funeral",
+                        "item_count": 1
+                    }, {
+                        "name": "Malfunction",
+                        "item_count": 1
+                    }, {
+                        "name": "Piñata",
+                        "item_count": 1
+                    }, {
+                        "name": "Sputnik",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 52,
+                        "y": 600
+                    }
+                ]
+            }, {
+                "name": "HALO: REACH",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Noble Actual",
+                        "item_count": 1
+                    }, {
+                        "name": "Winter Contingency",
+                        "item_count": 1
+                    }, {
+                        "name": "ONI: Sword Base",
+                        "item_count": 1
+                    }, {
+                        "name": "Nightfall",
+                        "item_count": 1
+                    }, {
+                        "name": "Tip of the Spear",
+                        "item_count": 1
+                    }, {
+                        "name": "Long Night of Solace",
+                        "item_count": 1
+                    }, {
+                        "name": "New Alexandria",
+                        "item_count": 1
+                    }, {
+                        "name": "The Package",
+                        "item_count": 1
+                    }, {
+                        "name": "The Pillar of Autumn",
+                        "item_count": 1
+                    }, {
+                        "name": "Lone Wolf",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 438,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 2",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 825,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 3",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 1211,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 3: ODST",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 1598,
+                        "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 4",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 1984,
+                        "y": 552
+                    }
+                ]
+            }
+        ]
+    }]
+

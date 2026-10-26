@@ -11,18 +11,16 @@
   "target_poptracker_version": "0.36.0",
   "variants": {
     "standard": {
-      "display_name": "Map Tracker",
-      "flags": [
-        // enables AP autotracking interface - remove if not needed
-        "ap"
-      ]
+      "display_name": "Map Tracker - Vertical",
+      "flags": ["ap"]
+    },
+    "var_horizontal": {
+      "display_name": "Map Tracker - Horizontal",
+      "flags": ["ap"]
     },
     "var_itemsonly": {
       "display_name": "Items Only",
-      "flags": [
-        // enables AP autotracking interface - remove if not needed
-        "ap"
-      ]
+      "flags": ["ap"]
     }
   }
   , "versions_url": "https://raw.githubusercontent.com/TheMadog24/Halo-MCC-AP-Tracker/versions/versions.json"

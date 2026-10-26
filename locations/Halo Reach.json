@@ -1,0 +1,195 @@
+[{
+        "name": "HALO: REACH",
+        "children": [{
+                "name": "Noble Actual",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 199,
+                        "y": 204
+                    }
+
+                ]
+            }, {
+                "name": "Winter Contingency",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 533,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "ONI: Sword Base",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 867,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "Nightfall",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 199,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Tip of the Spear",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 533,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Long Night of Solace",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 867,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Exodus",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 199,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "New Alexandria",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 533,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "The Package",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 867,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "The Pillar of Autumn",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 199,
+                        "y": 894
+                    }
+                ]
+            }, {
+                "name": "Lone Wolf",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 533,
+                        "y": 894
+                    }
+                ]
+            }
+        ]
+    }
+]

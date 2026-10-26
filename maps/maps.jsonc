@@ -2,14 +2,20 @@
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
     "name": "Overview",
-    "location_size": 48,
+    "location_size": 28,
     "location_border_thickness": 4,
     "img": "images/maps/Overview.png"
   },
   {
     "name": "Halo CE",
-    "location_size": 48,
+    "location_size": 28,
     "location_border_thickness": 4,
     "img": "images/maps/Halo_CE.png"
+  },
+  {
+    "name": "Halo Reach",
+    "location_size": 28,
+    "location_border_thickness": 4,
+    "img": "images/maps/Halo_Reach.png"
   }
 ]
