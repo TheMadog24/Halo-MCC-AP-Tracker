@@ -173,7 +173,7 @@
                     }
                 ]
             }, {
-                "name": "Lone Wolf",
+                "name": "Epilogue",
                 "access_rules": [
                     //read as: progressive_toggle_2 and has more than 4 consumable
                     "progressive_toggle_2, $has_more_then_n_consumable|4"
@@ -186,6 +186,23 @@
                 "map_locations": [{
                         "map": "Halo Reach",
                         "x": 533,
+                        "y": 894
+                    }
+                ]
+            }, {
+                "name": "Lone Wolf",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo Reach",
+                        "x": 867,
                         "y": 894
                     }
                 ]
