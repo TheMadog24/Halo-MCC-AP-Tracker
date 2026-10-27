@@ -21,9 +21,9 @@
                             "item_v_alignment": "center",
                             "h_alignment": "left",
                             "rows": [
-                                    ["Skull_Reach_Black_Eye", "Skull_Reach_Blind", "Skull_Reach_Catch", "Skull_Reach_Famine"],
-                                    ["Skull_Reach_Fog", "Skull_Reach_Iron", "Skull_Reach_Mythic", "Skull_Reach_Thunderstorm"],
-                                    ["Skull_Reach_Tilt", "Skull_Reach_Tough_Luck"]
+                                    ["Skull_3_Anger", "Skull_3_Black_Eye", "Skull_3_Blind", "Skull_3_Catch", "Skull_3_Eye_Patch", "Skull_3_Famine"],
+                                    ["Skull_3_Fog", "Skull_3_Foreign", "Skull_3_Iron", "Skull_3_Jacked", "Skull_3_Masterblaster", "Skull_3_Mythic"],
+                                    ["Skull_3_Recession", "Skull_3_That's_Just_Wrong", "Skull_3_Thunderstorm", "Skull_3_Tilt", "Skull_3_Tough_Luck"]
                                 ]
                         }
                     }
@@ -43,8 +43,9 @@
                             "item_v_alignment": "center",
                             "h_alignment": "left",
                             "rows": [
-                                    ["Skull_Reach_Bandanna", "Skull_Reach_Cowbell", "Skull_Reach_Grunt_Birthday_Party"],
-                                    ["Skull_Reach_IWHBYD", "Skull_Reach_Acrophobia"]
+                                    ["Skull_3_Bandanna", "Skull_3_Bonded_Pair", "Skull_3_Boom", "Skull_3_Cowbell", "Skull_3_Ghost", "Skull_3_Grunt_Birthday_Party"],
+                                    ["Skull_3_IWHBYD", "Skull_3_Malfunction", "Skull_3_Pinata", "Skull_3_So_Angry", "Skull_3_Swarm", "Skull_3_They_Come_Back"],
+                                    ["Skull_3_Acrophobia"]
                                 ]
                         }
                     }

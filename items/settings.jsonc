@@ -1,0 +1,53 @@
+[
+    // Shared Settings
+    {
+        "name": "Skullsanity", 
+        "type": "consumable", 
+        "max_quantity": 3,
+        "codes": "skullsanity"
+    },
+    {
+        "name": "Skulls Required",
+        "type": "consumable",
+        "max_quantity": 17,
+        "codes": "skulls_required"
+    },
+    {
+        "name": "Shared Skulls",
+        "type": "toggle",
+        "codes": "skull_item_mode_shared"
+    },
+    
+    // Halo CE
+    {
+        "name": "CE Final Mission",
+        "type": "consumable",
+        "max_quantity": 10,
+        "codes": "ce_final"
+    },
+    {
+        "name": "CE Missions Required",
+        "type": "consumable",
+        "max_quantity": 9,
+        "codes": "ce_missions_required"
+    },
+    {
+        "name": "CE Skull Pickups",
+        "type": "toggle",
+        "codes": "ce_skull_pickups"
+    }
+
+    // Halo 2
+    // TODO: Hidden slot data items for h2
+
+    // Halo 3
+    // TODO: Hidden slot data items for h3
+
+    // Halo 4
+    // TODO: Hidden slot data items for h4
+
+    // Halo Reach
+    // TODO: Hidden slot data items for reach
+
+    // You can find these in the repo at apworld/halo_mcc/mcc_options.py
+]

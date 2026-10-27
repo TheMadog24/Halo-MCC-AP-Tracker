@@ -4,191 +4,191 @@
         "name": "Acrophobia Skull",
         "type": "toggle",
         "img": "images/items/Acrophobia.png",
-        "codes": "Skull_2_Acrophobia"
+        "codes": "Skull_Reach_Acrophobia"
     }, {
         "name": "Anger Skull",
         "type": "toggle",
         "img": "images/items/Anger.png",
-        "codes": "Skull_2_Anger"
+        "codes": "Skull_Reach_Anger"
     }, {
         "name": "Assassins Skull",
         "type": "toggle",
         "img": "images/items/Assassins.png",
-        "codes": "Skull_2_Assassins"
+        "codes": "Skull_Reach_Assassins"
     }, {
         "name": "Bandana Skull",
         "type": "toggle",
         "img": "images/items/Bandanna.png",
-        "codes": "Skull_2_Bandanna"
+        "codes": "Skull_Reach_Bandanna"
     }, {
         "name": "Black Eye Skull",
         "type": "toggle",
         "img": "images/items/Black Eye.png",
-        "codes": "Skull_2_Black_Eye"
+        "codes": "Skull_Reach_Black_Eye"
     }, {
         "name": "Blind Skull",
         "type": "toggle",
         "img": "images/items/Blind.png",
-        "codes": "Skull_2_Blind"
+        "codes": "Skull_Reach_Blind"
     }, {
         "name": "Bonded Pair Skull",
         "type": "toggle",
         "img": "images/items/Bonded Pair.png",
-        "codes": "Skull_2_Bonded_Pair"
+        "codes": "Skull_Reach_Bonded_Pair"
     }, {
         "name": "Boom Skull",
         "type": "toggle",
         "img": "images/items/Boom.png",
-        "codes": "Skull_2_Boom"
+        "codes": "Skull_Reach_Boom"
     }, {
         "name": "Catch Skull",
         "type": "toggle",
         "img": "images/items/Catch.png",
-        "codes": "Skull_2_Catch"
+        "codes": "Skull_Reach_Catch"
     }, {
         "name": "Cowbell Skull",
         "type": "toggle",
         "img": "images/items/Cowbell.png",
-        "codes": "Skull_2_Cowbell"
+        "codes": "Skull_Reach_Cowbell"
     }, {
         "name": "Envy Skull",
         "type": "toggle",
         "img": "images/items/Envy.png",
-        "codes": "Skull_2_Envy"
+        "codes": "Skull_Reach_Envy"
     }, {
         "name": "Eye Patch Skull",
         "type": "toggle",
         "img": "images/items/Eye Patch.png",
-        "codes": "Skull_2_Eye_Patch"
+        "codes": "Skull_Reach_Eye_Patch"
     }, {
         "name": "Famine Skull",
         "type": "toggle",
         "img": "images/items/Famine.png",
-        "codes": "Skull_2_Famine"
+        "codes": "Skull_Reach_Famine"
     }, {
         "name": "Feather Skull",
         "type": "toggle",
         "img": "images/items/Feather.png",
-        "codes": "Skull_2_Feather"
+        "codes": "Skull_Reach_Feather"
     }, {
         "name": "Fog Skull",
         "type": "toggle",
         "img": "images/items/Fog.png",
-        "codes": "Skull_2_Fog"
+        "codes": "Skull_Reach_Fog"
     }, {
         "name": "Foreign Skull",
         "type": "toggle",
         "img": "images/items/Foreign.png",
-        "codes": "Skull_2_Foreign"
+        "codes": "Skull_Reach_Foreign"
     }, {
         "name": "Ghost Skull",
         "type": "toggle",
         "img": "images/items/Ghost.png",
-        "codes": "Skull_2_Ghost"
+        "codes": "Skull_Reach_Ghost"
     }, {
         "name": "Grunt Birthday Party Skull",
         "type": "toggle",
         "img": "images/items/Grunt Birthday Party.png",
-        "codes": "Skull_2_Grunt_Birthday_Party"
+        "codes": "Skull_Reach_Grunt_Birthday_Party"
     }, {
         "name": "Grunt Funeral Skull",
         "type": "toggle",
         "img": "images/items/Grunt Funeral.png",
-        "codes": "Skull_2_Grunt_Funeral"
+        "codes": "Skull_Reach_Grunt_Funeral"
     }, {
         "name": "Iron Skull",
         "type": "toggle",
         "img": "images/items/Iron.png",
-        "codes": "Skull_2_Iron"
+        "codes": "Skull_Reach_Iron"
     }, {
         "name": "IWHBYD Skull",
         "type": "toggle",
         "img": "images/items/IWHBYD.png",
-        "codes": "Skull_2_IWHBYD"
+        "codes": "Skull_Reach_IWHBYD"
     }, {
         "name": "Jacked Skull",
         "type": "toggle",
         "img": "images/items/Jacked.png",
-        "codes": "Skull_2_Jacked"
+        "codes": "Skull_Reach_Jacked"
     }, {
         "name": "Malfunction Skull",
         "type": "toggle",
         "img": "images/items/Malfunction.png",
-        "codes": "Skull_2_Malfunction"
+        "codes": "Skull_Reach_Malfunction"
     }, {
         "name": "Masterblaster Skull",
         "type": "toggle",
         "img": "images/items/Masterblaster.png",
-        "codes": "Skull_2_Masterblaster"
+        "codes": "Skull_Reach_Masterblaster"
     }, {
         "name": "Mythic Skull",
         "type": "toggle",
         "img": "images/items/Mythic.png",
-        "codes": "Skull_2_Mythic"
+        "codes": "Skull_Reach_Mythic"
     }, {
         "name": "Pinata Skull",
         "type": "toggle",
-        "img": "images/items/Piñata.png",
-        "codes": "Skull_2_Piñata"
+        "img": "images/items/Pinata.png",
+        "codes": "Skull_Reach_Pinata"
     }, {
         "name": "Prophet Birthday Party Skull",
         "type": "toggle",
         "img": "images/items/Prophet Birthday Party.png",
-        "codes": "Skull_2_Prophet_Birthday_Party"
+        "codes": "Skull_Reach_Prophet_Birthday_Party"
     }, {
         "name": "Recession Skull",
         "type": "toggle",
         "img": "images/items/Recession.png",
-        "codes": "Skull_2_Recession"
+        "codes": "Skull_Reach_Recession"
     }, {
         "name": "Scarab Skull",
         "type": "toggle",
         "img": "images/items/Scarab.png",
-        "codes": "Skull_2_Scarab"
+        "codes": "Skull_Reach_Scarab"
     }, {
         "name": "SO... ANGRY... Skull",
         "type": "toggle",
         "img": "images/items/So Angry.png",
-        "codes": "Skull_2_So_Angry"
+        "codes": "Skull_Reach_So_Angry"
     }, {
         "name": "Sputnik Skull",
         "type": "toggle",
         "img": "images/items/Sputnik.png",
-        "codes": "Skull_2_Sputnik"
+        "codes": "Skull_Reach_Sputnik"
     }, {
         "name": "Streaking Skull",
         "type": "toggle",
         "img": "images/items/Streaking.png",
-        "codes": "Skull_2_Streaking"
+        "codes": "Skull_Reach_Streaking"
     }, {
         "name": "Swarm Skull",
         "type": "toggle",
         "img": "images/items/Swarm.png",
-        "codes": "Skull_2_Swarm"
+        "codes": "Skull_Reach_Swarm"
     }, {
         "name": "That's Just... Wrong Skull",
         "type": "toggle",
         "img": "images/items/That's Just Wrong.png",
-        "codes": "Skull_2_That's_Just_Wrong"
+        "codes": "Skull_Reach_That's_Just_Wrong"
     }, {
         "name": "They Come Back Skull",
         "type": "toggle",
         "img": "images/items/They Come Back.png",
-        "codes": "Skull_2_They_Come_Back"
+        "codes": "Skull_Reach_They_Come_Back"
     }, {
         "name": "Thunderstorm Skull",
         "type": "toggle",
         "img": "images/items/Thunderstorm.png",
-        "codes": "Skull_2_Thunderstorm"
+        "codes": "Skull_Reach_Thunderstorm"
     }, {
         "name": "Tilt Skull",
         "type": "toggle",
         "img": "images/items/Tilt.png",
-        "codes": "Skull_2_Tilt"
+        "codes": "Skull_Reach_Tilt"
     }, {
         "name": "Tough Luck Skull",
         "type": "toggle",
         "img": "images/items/Tough Luck.png",
-        "codes": "Skull_2_Tough_Luck"
+        "codes": "Skull_Reach_Tough_Luck"
     }
 ]
