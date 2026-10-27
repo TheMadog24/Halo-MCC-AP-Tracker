@@ -63,6 +63,16 @@
                                     }
                                 ]
                             }
+                        }, {
+                            "title": "Halo 3",
+                            "content": {
+                                "type": "dock",
+                                "content": [{
+                                        "type": "map",
+                                        "maps": ["Halo 3"]
+                                    }
+                                ]
+                            }
                         }
                     ]
                 }

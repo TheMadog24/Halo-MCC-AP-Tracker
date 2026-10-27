@@ -23,5 +23,11 @@
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/Halo_2.png"
+  },
+  {
+    "name": "Halo 3",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/Halo_3.png"
   }
 ]

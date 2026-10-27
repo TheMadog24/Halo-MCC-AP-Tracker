@@ -1,0 +1,154 @@
+[
+    //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+    {
+        "name": "Acrophobia Skull",
+        "type": "toggle",
+        "img": "images/items/Acrophobia.png",
+        "codes": "Skull_3_Acrophobia"
+    }, {
+        "name": "Anger Skull",
+        "type": "toggle",
+        "img": "images/items/Anger.png",
+        "codes": "Skull_3_Anger"
+    }, {
+        "name": "Bandanna Skull",
+        "type": "toggle",
+        "img": "images/items/Bandanna.png",
+        "codes": "Skull_3_Bandanna"
+    }, {
+        "name": "Black Eye Skull",
+        "type": "toggle",
+        "img": "images/items/Black Eye.png",
+        "codes": "Skull_3_Black_Eye"
+    }, {
+        "name": "Blind Skull",
+        "type": "toggle",
+        "img": "images/items/Blind.png",
+        "codes": "Skull_3_Blind"
+    }, {
+        "name": "Bonded Pair Skull",
+        "type": "toggle",
+        "img": "images/items/Bonded Pair.png",
+        "codes": "Skull_3_Bonded_Pair"
+    }, {
+        "name": "Boom Skull",
+        "type": "toggle",
+        "img": "images/items/Boom.png",
+        "codes": "Skull_3_Boom"
+    }, {
+        "name": "Catch Skull",
+        "type": "toggle",
+        "img": "images/items/Catch.png",
+        "codes": "Skull_3_Catch"
+    }, {
+        "name": "Cowbell Skull",
+        "type": "toggle",
+        "img": "images/items/Cowbell.png",
+        "codes": "Skull_3_Cowbell"
+    }, {
+        "name": "Eye Patch Skull",
+        "type": "toggle",
+        "img": "images/items/Eye Patch.png",
+        "codes": "Skull_3_Eye_Patch"
+    }, {
+        "name": "Famine Skull",
+        "type": "toggle",
+        "img": "images/items/Famine.png",
+        "codes": "Skull_3_Famine"
+    }, {
+        "name": "Fog Skull",
+        "type": "toggle",
+        "img": "images/items/Fog.png",
+        "codes": "Skull_3_Fog"
+    }, {
+        "name": "Foreign Skull",
+        "type": "toggle",
+        "img": "images/items/Foreign.png",
+        "codes": "Skull_3_Foreign"
+    }, {
+        "name": "Ghost Skull",
+        "type": "toggle",
+        "img": "images/items/Ghost.png",
+        "codes": "Skull_3_Ghost"
+    }, {
+        "name": "Grunt Birthday Party Skull",
+        "type": "toggle",
+        "img": "images/items/Grunt Birthday Party.png",
+        "codes": "Skull_3_Grunt_Birthday_Party"
+    }, {
+        "name": "Iron Skull",
+        "type": "toggle",
+        "img": "images/items/Iron.png",
+        "codes": "Skull_3_Iron"
+    }, {
+        "name": "IWHBYD Skull",
+        "type": "toggle",
+        "img": "images/items/IWHBYD.png",
+        "codes": "Skull_3_IWHBYD"
+    }, {
+        "name": "Jacked Skull",
+        "type": "toggle",
+        "img": "images/items/Jacked.png",
+        "codes": "Skull_3_Jacked"
+    }, {
+        "name": "Malfunction Skull",
+        "type": "toggle",
+        "img": "images/items/Malfunction.png",
+        "codes": "Skull_3_Malfunction"
+    }, {
+        "name": "Master Blaster Skull",
+        "type": "toggle",
+        "img": "images/items/Masterblaster.png",
+        "codes": "Skull_3_Masterblaster"
+    }, {
+        "name": "Mythic Skull",
+        "type": "toggle",
+        "img": "images/items/Mythic.png",
+        "codes": "Skull_3_Mythic"
+    }, {
+        "name": "Piñata Skull",
+        "type": "toggle",
+        "img": "images/items/Piñata.png",
+        "codes": "Skull_3_Piñata"
+    }, {
+        "name": "Recession Skull",
+        "type": "toggle",
+        "img": "images/items/Recession.png",
+        "codes": "Skull_3_Recession"
+    }, {
+        "name": "SO... ANGRY... Skull",
+        "type": "toggle",
+        "img": "images/items/So Angry.png",
+        "codes": "Skull_3_So_Angry"
+    }, {
+        "name": "Swarm Skull",
+        "type": "toggle",
+        "img": "images/items/Swarm.png",
+        "codes": "Skull_3_Swarm"
+    }, {
+        "name": "That's Just... Wrong Skull",
+        "type": "toggle",
+        "img": "images/items/That's Just Wrong.png",
+        "codes": "Skull_3_That's_Just_Wrong"
+    }, {
+        "name": "They Come Back Skull",
+        "type": "toggle",
+        "img": "images/items/They Come Back.png",
+        "codes": "Skull_3_They_Come_Back"
+    }, {
+        "name": "Thunderstorm Skull",
+        "type": "toggle",
+        "img": "images/items/Thunderstorm.png",
+        "codes": "Skull_3_Thunderstorm"
+    }, {
+        "name": "Tilt Skull",
+        "type": "toggle",
+        "img": "images/items/Tilt.png",
+        "codes": "Skull_3_Tilt"
+    }, {
+        "name": "Tough Luck Skull",
+        "type": "toggle",
+        "img": "images/items/Tough Luck.png",
+        "codes": "Skull_3_Tough_Luck"
+    },
+]

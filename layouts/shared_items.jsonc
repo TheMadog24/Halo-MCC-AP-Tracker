@@ -110,10 +110,10 @@
                                             "item_v_alignment": "center",
                                             "h_alignment": "center",
                                             "rows": [
-                                    ["Skull_Reach_Black_Eye", "Skull_Reach_Blind", "Skull_Reach_Catch", "Skull_Reach_Famine"],
-                                    ["Skull_Reach_Fog", "Skull_Reach_Iron", "Skull_Reach_Mythic", "Skull_Reach_Thunderstorm"],
-                                    ["Skull_Reach_Tilt", "Skull_Reach_Tough_Luck"]
-                                ]
+                                                ["Skull_Reach_Black_Eye", "Skull_Reach_Blind", "Skull_Reach_Catch", "Skull_Reach_Famine"],
+                                                ["Skull_Reach_Fog", "Skull_Reach_Iron", "Skull_Reach_Mythic", "Skull_Reach_Thunderstorm"],
+                                                ["Skull_Reach_Tilt", "Skull_Reach_Tough_Luck"]
+                                            ]
                                         }
                                     }, {
                                         "type": "group",
@@ -126,9 +126,9 @@
                                             "item_v_alignment": "center",
                                             "h_alignment": "center",
                                             "rows": [
-                                    ["Skull_Reach_Bandanna", "Skull_Reach_Cowbell", "Skull_Reach_Grunt_Birthday_Party"],
-                                    ["Skull_Reach_IWHBYD", "Skull_Reach_Acrophobia"]
-                                ]
+                                                ["Skull_Reach_Bandanna", "Skull_Reach_Cowbell", "Skull_Reach_Grunt_Birthday_Party"],
+                                                ["Skull_Reach_IWHBYD", "Skull_Reach_Acrophobia"]
+                                            ]
                                         }
                                     }
                                 ]
@@ -150,11 +150,11 @@
                                             "item_v_alignment": "center",
                                             "h_alignment": "center",
                                             "rows": [
-                                ["Skull_2_Anger", "Skull_2_Assassins", "Skull_2_Black_Eye", "Skull_2_Blind", "Skull_2_Catch"],
-                                ["Skull_2_Eye_Patch", "Skull_2_Famine", "Skull_2_Fog", "Skull_2_Iron", "Skull_2_Jacked"],
-                                ["Skull_2_Masterblaster", "Skull_2_Mythic", "Skull_2_Recession", "Skull_2_So_Angry", "Skull_2_Streaking"],
-                                ["Skull_2_Swarm", "Skull_2_That's_Just_Wrong", "Skull_2_They_Come_Back", "Skull_2_Thunderstorm"]
-                            ]
+                                                ["Skull_2_Anger", "Skull_2_Assassins", "Skull_2_Black_Eye", "Skull_2_Blind", "Skull_2_Catch"],
+                                                ["Skull_2_Eye_Patch", "Skull_2_Famine", "Skull_2_Fog", "Skull_2_Iron", "Skull_2_Jacked"],
+                                                ["Skull_2_Masterblaster", "Skull_2_Mythic", "Skull_2_Recession", "Skull_2_So_Angry", "Skull_2_Streaking"],
+                                                ["Skull_2_Swarm", "Skull_2_That's_Just_Wrong", "Skull_2_They_Come_Back", "Skull_2_Thunderstorm"]
+                                            ]
                                         }
                                     }, {
                                         "type": "group",
@@ -167,10 +167,10 @@
                                             "item_v_alignment": "center",
                                             "h_alignment": "center",
                                             "rows": [
-                                ["Skull_2_Bandanna", "Skull_2_Bonded_Pair", "Skull_2_Boom", "Skull_2_Envy", "Skull_2_Feather"],
-                                ["Skull_2_Ghost", "Skull_2_Grunt_Birthday_Party", "Skull_2_Grunt_Funeral", "Skull_2_IWHBYD", "Skull_2_Malfunction"],
-                                ["Skull_2_Piñata", "Skull_2_Prophet_Birthday_Party", "Skull_2_Scarab", "Skull_2_Sputnik", "Skull_2_Acrophobia"]
-                            ]
+                                                ["Skull_2_Bandanna", "Skull_2_Bonded_Pair", "Skull_2_Boom", "Skull_2_Envy", "Skull_2_Feather"],
+                                                ["Skull_2_Ghost", "Skull_2_Grunt_Birthday_Party", "Skull_2_Grunt_Funeral", "Skull_2_IWHBYD", "Skull_2_Malfunction"],
+                                                ["Skull_2_Piñata", "Skull_2_Prophet_Birthday_Party", "Skull_2_Scarab", "Skull_2_Sputnik", "Skull_2_Acrophobia"]
+                                            ]
                                         }
                                     }
                                 ]
@@ -191,7 +191,12 @@
                                             "item_h_alignment": "center",
                                             "item_v_alignment": "center",
                                             "h_alignment": "center",
-                                            "rows": []
+                                            "rows": [
+                                                ["Skull_3_Anger", "Skull_3_Black_Eye", "Skull_3_Blind", "Skull_3_Catch", "Skull_3_Eye_Patch"],
+                                                ["Skull_3_Famine", "Skull_3_Fog", "Skull_3_Foreign", "Skull_3_Iron", "Skull_3_Jacked"],
+                                                ["Skull_3_Masterblaster", "Skull_3_Mythic", "Skull_3_Recession", "Skull_3_So_Angry", "Skull_3_Swarm"],
+                                                ["Skull_3_That's_Just_Wrong", "Skull_3_They_Come_Back", "Skull_3_Thunderstorm", "Skull_3_Tilt", "Skull_3_Tough_Luck"]
+                                            ]
                                         }
                                     }, {
                                         "type": "group",
@@ -203,7 +208,10 @@
                                             "item_h_alignment": "center",
                                             "item_v_alignment": "center",
                                             "h_alignment": "center",
-                                            "rows": []
+                                            "rows": [
+                                                ["Skull_3_Bandanna", "Skull_3_Bonded_Pair", "Skull_3_Boom", "Skull_3_Cowbell", "Skull_3_Ghost"],
+                                                ["Skull_3_Grunt_Birthday_Party", "Skull_3_IWHBYD", "Skull_3_Malfunction", "Skull_3_Piñata", "Skull_3_Acrophobia"]
+                                            ]
                                         }
                                     }
                                 ]

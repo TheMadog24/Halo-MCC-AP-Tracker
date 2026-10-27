@@ -1,0 +1,234 @@
+[{
+        "name": "Halo 3",
+        "children": [{
+                "name": "Arrival",
+                "access_rules": [
+                    //read as: progressive_2 or toggle
+                    "progressive_2",
+                    "toggle"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 199,
+                        "y": 204
+                    }
+
+                ]
+            }, {
+                "name": "Sierra 117",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Blind Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Iron Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 533,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "Crows' Nest",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Blackeye Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Grunt Birthday Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 867,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "Tsavo Highway",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Tough Luck Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 1201,
+                        "y": 204
+                    }
+                ]
+            }, {
+                "name": "The Storm",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Catch Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 199,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Floodgate",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Fog Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 533,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "The Ark",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Famine Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Cowbell Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 867,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Covenant",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Thunderstorm Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "IWHBYD Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 1201,
+                        "y": 434
+                    }
+                ]
+            }, {
+                "name": "Cortana",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Tilt Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 199,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "Halo",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Mythic Skull",
+                        "item_count": 1
+                    }, {
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 533,
+                        "y": 664
+                    }
+                ]
+            }, {
+                "name": "Epilogue",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Level Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Halo 3",
+                        "x": 867,
+                        "y": 664
+                    }
+                ]
+            }
+        ]
+    }
+]

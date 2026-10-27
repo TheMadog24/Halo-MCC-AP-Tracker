@@ -1,0 +1,55 @@
+{
+    // sets layouts for shadred items grids
+    // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+    "Halo_3_Skulls": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+		"h_alignment": "stretch",
+        "content": [{
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [{
+                        "type": "group",
+                        "header": "Scoring Skulls",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_size": "75, 75",
+                            "item_margin": "0, 0",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "h_alignment": "left",
+                            "rows": [
+                                    ["Skull_Reach_Black_Eye", "Skull_Reach_Blind", "Skull_Reach_Catch", "Skull_Reach_Famine"],
+                                    ["Skull_Reach_Fog", "Skull_Reach_Iron", "Skull_Reach_Mythic", "Skull_Reach_Thunderstorm"],
+                                    ["Skull_Reach_Tilt", "Skull_Reach_Tough_Luck"]
+                                ]
+                        }
+                    }
+                ]
+            }, {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [{
+                        "type": "group",
+                        "header": "Non-Scoring Skulls",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_size": "75, 75",
+                            "item_margin": "0, 0",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "h_alignment": "left",
+                            "rows": [
+                                    ["Skull_Reach_Bandanna", "Skull_Reach_Cowbell", "Skull_Reach_Grunt_Birthday_Party"],
+                                    ["Skull_Reach_IWHBYD", "Skull_Reach_Acrophobia"]
+                                ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

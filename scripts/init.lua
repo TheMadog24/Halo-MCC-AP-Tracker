@@ -23,6 +23,7 @@ Tracker:AddLocations("locations/Overview.json")
 Tracker:AddLocations("locations/Halo CE.json")
 Tracker:AddLocations("locations/Halo Reach.json")
 Tracker:AddLocations("locations/Halo 2.json")
+Tracker:AddLocations("locations/Halo 3.json")
 
 -- Custom Items
 ScriptHost:LoadScript("scripts/custom_items/class.lua")
@@ -34,6 +35,7 @@ Tracker:AddItems("items/items.jsonc")
 Tracker:AddItems("items/Halo_CE_items.json")
 Tracker:AddItems("items/Halo_Reach_items.json")
 Tracker:AddItems("items/Halo_2_items.json")
+Tracker:AddItems("items/Halo_3_items.json")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
@@ -49,6 +51,7 @@ Tracker:AddLayouts("layouts/broadcast.jsonc")
 Tracker:AddLayouts("layouts/Halo_CE_items.json")
 Tracker:AddLayouts("layouts/Halo_Reach_items.json")
 Tracker:AddLayouts("layouts/Halo_2_items.json")
+Tracker:AddLayouts("layouts/Halo_3_items.json")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then

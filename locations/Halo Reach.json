@@ -66,8 +66,8 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 199,
-                        "y": 434
+                        "x": 1201,
+                        "y": 204
                     }
                 ]
             }, {
@@ -83,7 +83,7 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 533,
+                        "x": 199,
                         "y": 434
                     }
                 ]
@@ -100,7 +100,7 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 867,
+                        "x": 533,
                         "y": 434
                     }
                 ]
@@ -117,8 +117,8 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 199,
-                        "y": 664
+                        "x": 867,
+                        "y": 434
                     }
                 ]
             }, {
@@ -134,8 +134,8 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 533,
-                        "y": 664
+                        "x": 1201,
+                        "y": 434
                     }
                 ]
             }, {
@@ -151,7 +151,7 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 867,
+                        "x": 199,
                         "y": 664
                     }
                 ]
@@ -168,8 +168,8 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 199,
-                        "y": 894
+                        "x": 533,
+                        "y": 664
                     }
                 ]
             }, {
@@ -185,8 +185,8 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 533,
-                        "y": 894
+                        "x": 867,
+                        "y": 664
                     }
                 ]
             }, {
@@ -202,8 +202,8 @@
                 ],
                 "map_locations": [{
                         "map": "Halo Reach",
-                        "x": 867,
-                        "y": 894
+                        "x": 1201,
+                        "y": 664
                     }
                 ]
             }
