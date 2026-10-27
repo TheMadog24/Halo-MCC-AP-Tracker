@@ -5,9 +5,7 @@
         "type": "dock",
         "margin": "0,0",
         "content": [{
-                "type": "array",
-                "header": "Skulls",
-                "dock": "bottom",
+                "type": "container",
                 "content": {
                     "type": "tabbed",
                     "tabs": [{
