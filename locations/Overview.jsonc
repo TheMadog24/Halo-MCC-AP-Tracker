@@ -272,7 +272,37 @@
                     "progressive_toggle_2, $has_more_then_n_consumable|4"
                 ],
                 "sections": [{
-                        "name": "Example Section 1",
+                        "name": "Arrival",
+                        "item_count": 1
+                    }, {
+                        "name": "Sierra 117",
+                        "item_count": 1
+                    }, {
+                        "name": "Crow's Nest",
+                        "item_count": 1
+                    }, {
+                        "name": "Tsavo Highway",
+                        "item_count": 1
+                    }, {
+                        "name": "The Storm",
+                        "item_count": 1
+                    }, {
+                        "name": "Floodgate",
+                        "item_count": 1
+                    }, {
+                        "name": "The Ark",
+                        "item_count": 1
+                    }, {
+                        "name": "The Covenant",
+                        "item_count": 1
+                    }, {
+                        "name": "Cortana",
+                        "item_count": 1
+                    }, {
+                        "name": "Halo",
+                        "item_count": 1
+                    }, {
+                        "name": "Epilogue",
                         "item_count": 1
                     }
                 ],
@@ -280,6 +310,59 @@
                         "map": "Overview",
                         "x": 1211,
                         "y": 552
+                    }
+                ]
+            }, {
+                "name": "HALO 3 Skull Locations",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more than 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"
+                ],
+                "sections": [{
+                        "name": "Blind",
+                        "item_count": 1
+                    }, {
+                        "name": "Iron",
+                        "item_count": 1
+                    }, {
+                        "name": "Blackeye",
+                        "item_count": 1
+                    }, {
+                        "name": "Grunt Birthday Party",
+                        "item_count": 1
+                    }, {
+                        "name": "Tough Luck",
+                        "item_count": 1
+                    }, {
+                        "name": "Catch",
+                        "item_count": 1
+                    }, {
+                        "name": "Fog",
+                        "item_count": 1
+                    }, {
+                        "name": "Famine",
+                        "item_count": 1
+                    }, {
+                        "name": "Cowbell",
+                        "item_count": 1
+                    }, {
+                        "name": "Thunderstorm",
+                        "item_count": 1
+                    }, {
+                        "name": "IWHBYD",
+                        "item_count": 1
+                    }, {
+                        "name": "Tilt",
+                        "item_count": 1
+                    }, {
+                        "name": "Mythic",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [{
+                        "map": "Overview",
+                        "x": 1211,
+                        "y": 600
                     }
                 ]
             }, {

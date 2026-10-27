@@ -46,11 +46,6 @@
         "img": "images/items/Catch.png",
         "codes": "Skull_2_Catch"
     }, {
-        "name": "Cowbell Skull",
-        "type": "toggle",
-        "img": "images/items/Cowbell.png",
-        "codes": "Skull_2_Cowbell"
-    }, {
         "name": "Envy Skull",
         "type": "toggle",
         "img": "images/items/Envy.png",
@@ -75,11 +70,6 @@
         "type": "toggle",
         "img": "images/items/Fog.png",
         "codes": "Skull_2_Fog"
-    }, {
-        "name": "Foreign Skull",
-        "type": "toggle",
-        "img": "images/items/Foreign.png",
-        "codes": "Skull_2_Foreign"
     }, {
         "name": "Ghost Skull",
         "type": "toggle",
@@ -180,15 +170,5 @@
         "type": "toggle",
         "img": "images/items/Thunderstorm.png",
         "codes": "Skull_2_Thunderstorm"
-    }, {
-        "name": "Tilt Skull",
-        "type": "toggle",
-        "img": "images/items/Tilt.png",
-        "codes": "Skull_2_Tilt"
-    }, {
-        "name": "Tough Luck Skull",
-        "type": "toggle",
-        "img": "images/items/Tough Luck.png",
-        "codes": "Skull_2_Tough_Luck"
     }
 ]

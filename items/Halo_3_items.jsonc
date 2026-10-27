@@ -11,11 +11,6 @@
         "img": "images/items/Anger.png",
         "codes": "Skull_3_Anger"
     }, {
-        "name": "Assassins Skull",
-        "type": "toggle",
-        "img": "images/items/Assassins.png",
-        "codes": "Skull_3_Assassins"
-    }, {
         "name": "Bandana Skull",
         "type": "toggle",
         "img": "images/items/Bandanna.png",
@@ -51,11 +46,6 @@
         "img": "images/items/Cowbell.png",
         "codes": "Skull_3_Cowbell"
     }, {
-        "name": "Envy Skull",
-        "type": "toggle",
-        "img": "images/items/Envy.png",
-        "codes": "Skull_3_Envy"
-    }, {
         "name": "Eye Patch Skull",
         "type": "toggle",
         "img": "images/items/Eye Patch.png",
@@ -65,11 +55,6 @@
         "type": "toggle",
         "img": "images/items/Famine.png",
         "codes": "Skull_3_Famine"
-    }, {
-        "name": "Feather Skull",
-        "type": "toggle",
-        "img": "images/items/Feather.png",
-        "codes": "Skull_3_Feather"
     }, {
         "name": "Fog Skull",
         "type": "toggle",
@@ -90,11 +75,6 @@
         "type": "toggle",
         "img": "images/items/Grunt Birthday Party.png",
         "codes": "Skull_3_Grunt_Birthday_Party"
-    }, {
-        "name": "Grunt Funeral Skull",
-        "type": "toggle",
-        "img": "images/items/Grunt Funeral.png",
-        "codes": "Skull_3_Grunt_Funeral"
     }, {
         "name": "Iron Skull",
         "type": "toggle",
@@ -131,35 +111,15 @@
         "img": "images/items/Pinata.png",
         "codes": "Skull_3_Pinata"
     }, {
-        "name": "Prophet Birthday Party Skull",
-        "type": "toggle",
-        "img": "images/items/Prophet Birthday Party.png",
-        "codes": "Skull_3_Prophet_Birthday_Party"
-    }, {
         "name": "Recession Skull",
         "type": "toggle",
         "img": "images/items/Recession.png",
         "codes": "Skull_3_Recession"
     }, {
-        "name": "Scarab Skull",
-        "type": "toggle",
-        "img": "images/items/Scarab.png",
-        "codes": "Skull_3_Scarab"
-    }, {
         "name": "SO... ANGRY... Skull",
         "type": "toggle",
         "img": "images/items/So Angry.png",
         "codes": "Skull_3_So_Angry"
-    }, {
-        "name": "Sputnik Skull",
-        "type": "toggle",
-        "img": "images/items/Sputnik.png",
-        "codes": "Skull_3_Sputnik"
-    }, {
-        "name": "Streaking Skull",
-        "type": "toggle",
-        "img": "images/items/Streaking.png",
-        "codes": "Skull_3_Streaking"
     }, {
         "name": "Swarm Skull",
         "type": "toggle",
