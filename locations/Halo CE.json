@@ -112,7 +112,7 @@
                     }
                 ]
             }, {
-                "name": "343 Guildy Spark",
+                "name": "343 Guilty Spark",
                 "access_rules": [
                     //read as: progressive_toggle_2 and has more than 4 consumable
                     "progressive_toggle_2, $has_more_then_n_consumable|4"
@@ -175,7 +175,7 @@
                     }
                 ]
             }, {
-                "name": "Keys",
+                "name": "Keyes",
                 "access_rules": [
                     //read as: progressive_toggle_2 and has more than 4 consumable
                     "progressive_toggle_2, $has_more_then_n_consumable|4"

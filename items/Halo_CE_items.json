@@ -16,7 +16,7 @@
         "img": "images/items/Assassins.png",
         "codes": "Skull_HCE_Assassins"
     }, {
-        "name": "Bandanna Skull",
+        "name": "Bandana Skull",
         "type": "toggle",
         "img": "images/items/Bandanna.png",
         "codes": "Skull_HCE_Bandanna"
@@ -126,7 +126,7 @@
         "img": "images/items/Mythic.png",
         "codes": "Skull_HCE_Mythic"
     }, {
-        "name": "Piñata Skull",
+        "name": "Pinata Skull",
         "type": "toggle",
         "img": "images/items/Piñata.png",
         "codes": "Skull_HCE_Piñata"
@@ -146,7 +146,7 @@
         "img": "images/items/Scarab.png",
         "codes": "Skull_HCE_Scarab"
     }, {
-        "name": "So Angry Skull",
+        "name": "SO... ANGRY... Skull",
         "type": "toggle",
         "img": "images/items/So Angry.png",
         "codes": "Skull_HCE_So_Angry"
@@ -166,7 +166,7 @@
         "img": "images/items/Swarm.png",
         "codes": "Skull_HCE_Swarm"
     }, {
-        "name": "That's Just Wrong Skull",
+        "name": "That's Just... Wrong Skull",
         "type": "toggle",
         "img": "images/items/That's Just Wrong.png",
         "codes": "Skull_HCE_That's_Just_Wrong"

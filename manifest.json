@@ -1,7 +1,7 @@
 {
   // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
   "name": "Halo MCC AP Tracker",
-  "game_name": "Halo MCC",
+  "game_name": "Halo The Master Chief Collection",
   "package_version": "0.0.0.1",
   "package_uid": "template_pack",
   // enables SNES memory autotracking interface - remove/change if not needed

@@ -20,6 +20,9 @@
                         "name": "The Silent Cartographer",
                         "item_count": 1
                     }, {
+                        "name": "Assault on the Control Room",
+                        "item_count": 1
+                    }, {
                         "name": "343 Guilty Spark",
                         "item_count": 1
                     }, {
@@ -119,6 +122,9 @@
                         "item_count": 1
                     }, {
                         "name": "Long Night of Solace",
+                        "item_count": 1
+                    }, {
+                        "name": "Exodus",
                         "item_count": 1
                     }, {
                         "name": "New Alexandria",
