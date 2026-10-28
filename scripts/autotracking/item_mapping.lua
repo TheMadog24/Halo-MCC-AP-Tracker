@@ -57,6 +57,7 @@ ITEM_MAPPING = {
     [90737] = { { "Skull_Tough_Luck" } },
     [90738] = { { "Skull_Acrophobia" } },
 
+	-- Halo CE Skulls
     [90101] = { { "Skull_HCE_Anger" } },
     [90103] = { { "Skull_HCE_Bandanna" } },
     [90104] = { { "Skull_HCE_Black_Eye" } },
@@ -81,6 +82,7 @@ ITEM_MAPPING = {
     [90137] = { { "Skull_HCE_Tough_Luck" } },
     [90138] = { { "Skull_HCE_Acrophobia" } },
 	
+	-- Halo Reach Skulls
 	[90603] = { { "Skull_Reach_Bandanna" } },
     [90604] = { { "Skull_Reach_Black_Eye" } },
     [90605] = { { "Skull_Reach_Blind" } },
@@ -97,6 +99,7 @@ ITEM_MAPPING = {
     [90637] = { { "Skull_Reach_Tough_Luck" } },
     [90638] = { { "Skull_Reach_Acrophobia" } },
 	
+	-- Halo 2 Skulls
 	[90201] = { { "Skull_2_Anger" } },
     [90202] = { { "Skull_2_Assassins" } },
     [90203] = { { "Skull_2_Bandanna" } },
@@ -132,6 +135,7 @@ ITEM_MAPPING = {
     [90235] = { { "Skull_2_Thunderstorm" } },
     [90238] = { { "Skull_2_Acrophobia" } },
 	
+	-- Halo 3 Skulls
 	[90301] = { { "Skull_3_Anger" } },
     [90303] = { { "Skull_3_Bandanna" } },
     [90304] = { { "Skull_3_Black_Eye" } },
@@ -162,6 +166,25 @@ ITEM_MAPPING = {
     [90336] = { { "Skull_3_Tilt" } },
     [90337] = { { "Skull_3_Tough_Luck" } },
     [90338] = { { "Skull_3_Acrophobia" } },
+	
+	-- Halo ODST Skulls (In the Future?)
+	
+	-- Halo 4 Skulls
+    [90403] = { { "Skull_4_Bandanna" } },
+    [90404] = { { "Skull_4_Black_Eye" } },
+    [90405] = { { "Skull_4_Blind" } },
+    [90408] = { { "Skull_4_Catch" } },
+    [90409] = { { "Skull_4_Cowbell" } },
+    [90411] = { { "Skull_4_Eye_Patch" } },
+    [90412] = { { "Skull_4_Famine" } },
+    [90414] = { { "Skull_4_Fog" } },
+    [90417] = { { "Skull_4_Grunt_Birthday_Party" } },
+    [90419] = { { "Skull_4_Iron" } },
+    [90420] = { { "Skull_4_IWHBYD" } },
+    [90424] = { { "Skull_4_Mythic" } },
+    [90435] = { { "Skull_4_Thunderstorm" } },
+    [90436] = { { "Skull_4_Tilt" } },
+    [90437] = { { "Skull_4_Tough_Luck" } },
+    [90438] = { { "Skull_4_Acrophobia" } },
 
-	-- TODO: Halo 4 skulls (904xx -> Skull_4_*)
 }
