@@ -5,8 +5,17 @@
 -- here are the SM locations as an example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/scripts/autotracking/location_mapping.lua
 BASE_LOCATION_ID = 0
 LOCATION_MAPPING = {
-	[BASE_LOCATION_ID + 00001] = { { "@Example Parent/Example Location 1/Example Section 1" } },
-	[BASE_LOCATION_ID + 00002] = { { "toggle" } },
-	-- multiple locations on this id
-	[BASE_LOCATION_ID + 00003] = { { "@Example Parent/Example Location 1/Example Section 1" }, { "@Example Parent/Example Location 1/Example Section 2" } },
+	-- [BASE_LOCATION_ID + 00001] = { { "@Example Parent/Example Location 1/Example Section 1" } },
+	-- [BASE_LOCATION_ID + 00002] = { { "toggle" } },
+	-- -- multiple locations on this id
+	-- [BASE_LOCATION_ID + 00003] = { { "@Example Parent/Example Location 1/Example Section 1" }, { "@Example Parent/Example Location 1/Example Section 2" } },
+
+	-- CE
+	[101000] = {{ "@Halo CE/The Pillar of Autumn/Level Complete" }},
+	[101011] = {{ "@Halo CE/The Pillar of Autumn/Reveille" }},
+	[101012] = {{ "@Halo CE/The Pillar of Autumn/AI Constructs and Cyborgs First!" }},
+	[101021] = {{ "@Halo CE/The Pillar of Autumn/Iron Skull" }}
+	-- TODO: Rest of CE locations
+
+	-- TODO: Other game's locations
 }

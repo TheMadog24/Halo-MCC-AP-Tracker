@@ -128,8 +128,8 @@
     }, {
         "name": "Pinata Skull",
         "type": "toggle",
-        "img": "images/items/Piñata.png",
-        "codes": "Skull_HCE_Piñata"
+        "img": "images/items/Pinata.png",
+        "codes": "Skull_HCE_Pinata"
     }, {
         "name": "Prophet Birthday Party Skull",
         "type": "toggle",
@@ -190,5 +190,13 @@
         "type": "toggle",
         "img": "images/items/Tough Luck.png",
         "codes": "Skull_HCE_Tough_Luck"
+    },
+    {
+        "name": "The Pillar of Autumn Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_1"
     }
+    // TODO: Add { "name": "mission name", etc. } for the other mission access items in CE. Also add to layout somewhere.
+    // Will need to do same for other games
 ]

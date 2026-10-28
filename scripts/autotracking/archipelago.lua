@@ -99,9 +99,72 @@ function incrementItem(item_code, item_type, multiplier)
 	end
 end
 
--- apply everything needed from slot_data, called from onClear
+local function set_value(code, v)
+    local obj = Tracker:FindObjectForCode(code)
+    if obj then
+        obj.AcquiredCount = v
+    end
+end
+
+local function set_toggle(code, on)
+    local obj = Tracker:FindObjectForCode(code)
+    if obj then
+        obj.Active = on
+    end
+end
+
+-- slot data mission name -> mission number (0 if unknown). CE names come in the pre-1.4
+-- form ("The Maw", "Halo (CE)"); all the other games come in as "<Game>: <Mission>".
+-- we might change this up once spencer is back but we'll lyk if we do change it.
+local function mission_number(game, name)
+    if not name then
+        return 0
+    end
+    local data = GAMES[game]
+    local prefix = data.name .. ": "
+    if name:sub(1, #prefix) == prefix then
+        name = name:sub(#prefix + 1)
+    end
+    if game == "ce" and name == "Halo (CE)" then
+        name = "Halo"
+    end
+    for i, mission in ipairs(data.missions) do
+        if mission == name then
+            return i
+        end
+    end
+    return 0
+end
+
+-- apply everything needed from slot_data, called from onClear.
 function apply_slot_data(slot_data)
-	-- put any code here that slot_data should affect (toggling setting items for example)
+    -- 1.2.1 seeds only have final_mission (CE) so doing the or for back compat
+    local finals = slot_data.final_missions or { ce = slot_data.final_mission }
+    -- 1.3 seeds have no enabled_games so factoring that in for back compat
+    local enabled = {}
+    for g in pairs(slot_data.enabled_games and {} or finals) do
+        enabled[g] = true
+    end
+    for _, g in pairs(slot_data.enabled_games or {}) do
+        enabled[g] = true
+    end
+    local required = slot_data.missions_required or {}
+
+    for game, data in pairs(GAMES) do
+        set_toggle(game .. "_disabled", not enabled[data.slot])
+        set_value(game .. "_final", mission_number(game, finals[data.slot]))
+        -- every other mission is missing in 1.2.1 so add the or here
+        set_value(game .. "_missions_required", required[data.slot] or (#data.missions - 1))
+        if data.pickups then
+            -- missing: CE skulls were always checks in older seeds, H2/H3 ones never were
+            local default = (game == "ce") and 1 or 0
+            set_toggle(game .. "_skull_pickups", (slot_data[data.pickups] or default) ~= 0)
+        end
+    end
+
+    set_value("skullsanity", slot_data.skullsanity or 0)
+    set_value("skulls_required", slot_data.skulls_required or 8)
+    set_toggle("skull_item_mode_shared", slot_data.skull_item_mode == 1)
 end
 
 -- called right after an AP slot is connected

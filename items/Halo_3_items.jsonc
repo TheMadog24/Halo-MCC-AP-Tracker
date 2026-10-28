@@ -108,8 +108,8 @@
     }, {
         "name": "Pinata Skull",
         "type": "toggle",
-        "img": "images/items/Piñata.png",
-        "codes": "Skull_3_Piñata"
+        "img": "images/items/Pinata.png",
+        "codes": "Skull_3_Pinata"
     }, {
         "name": "Recession Skull",
         "type": "toggle",

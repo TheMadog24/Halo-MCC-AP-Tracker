@@ -3,7 +3,21 @@
 -- here are the SM items as an example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/scripts/autotracking/item_mapping.lua
 BASE_ITEM_ID = 0
 ITEM_MAPPING = {
+	-- [BASE_ITEM_ID + 00000] = { { "toggle" } },
+	-- [BASE_ITEM_ID + 00001] = { { "progressive" } },
+	-- [BASE_ITEM_ID + 00002] = { { "consumable" } },
+	-- -- handle progressive_toggle as toggle, only changing it's active state
+	-- [BASE_ITEM_ID + 00003] = { { "progressive_toggle", "toggle" } },
+	-- -- multiple items on this id, add the consumable 3 times
+	-- [BASE_ITEM_ID + 00004] = { { "toggle" }, { "consumable", nil, 3 } },
+	
+	-- CE:
+	[101000] = {{ "ce_access_1", "toggle" }},
+	-- TODO: Rest of CE mission access
 
+	-- TODO: H2, H3, REACH, H4 mission access items
+
+	-- Skulls
 	[90701] = { { "Skull_Anger" } },
     [90702] = { { "Skull_Assassins" } },
     [90703] = { { "Skull_Bandanna" } },
@@ -28,7 +42,7 @@ ITEM_MAPPING = {
     [90722] = { { "Skull_Malfunction" } },
     [90723] = { { "Skull_Masterblaster" } },
     [90724] = { { "Skull_Mythic" } },
-    [90725] = { { "Skull_Piñata" } },
+    [90725] = { { "Skull_Pinata" } },
     [90726] = { { "Skull_Prophet_Birthday_Party" } },
     [90727] = { { "Skull_Recession" } },
     [90728] = { { "Skull_Scarab" } },
@@ -59,7 +73,7 @@ ITEM_MAPPING = {
     [90119] = { { "Skull_HCE_Iron" } },
     [90122] = { { "Skull_HCE_Malfunction" } },
     [90124] = { { "Skull_HCE_Mythic" } },
-    [90125] = { { "Skull_HCE_Piñata" } },
+    [90125] = { { "Skull_HCE_Pinata" } },
     [90127] = { { "Skull_HCE_Recession" } },
     [90130] = { { "Skull_HCE_Sputnik" } },
     [90133] = { { "Skull_HCE_That's_Just_Wrong" } },
@@ -105,7 +119,7 @@ ITEM_MAPPING = {
     [90222] = { { "Skull_2_Malfunction" } },
     [90223] = { { "Skull_2_Masterblaster" } },
     [90224] = { { "Skull_2_Mythic" } },
-    [90225] = { { "Skull_2_Piñata" } },
+    [90225] = { { "Skull_2_Pinata" } },
     [90226] = { { "Skull_2_Prophet_Birthday_Party" } },
     [90227] = { { "Skull_2_Recession" } },
     [90228] = { { "Skull_2_Scarab" } },
@@ -138,7 +152,7 @@ ITEM_MAPPING = {
     [90322] = { { "Skull_3_Malfunction" } },
     [90323] = { { "Skull_3_Masterblaster" } },
     [90324] = { { "Skull_3_Mythic" } },
-    [90325] = { { "Skull_3_Piñata" } },
+    [90325] = { { "Skull_3_Pinata" } },
     [90327] = { { "Skull_3_Recession" } },
     [90329] = { { "Skull_3_So_Angry" } },
     [90332] = { { "Skull_3_Swarm" } },
@@ -149,11 +163,5 @@ ITEM_MAPPING = {
     [90337] = { { "Skull_3_Tough_Luck" } },
     [90338] = { { "Skull_3_Acrophobia" } },
 
-	[BASE_ITEM_ID + 00000] = { { "toggle" } },
-	[BASE_ITEM_ID + 00001] = { { "progressive" } },
-	[BASE_ITEM_ID + 00002] = { { "consumable" } },
-	-- handle progressive_toggle as toggle, only changing it's active state
-	[BASE_ITEM_ID + 00003] = { { "progressive_toggle", "toggle" } },
-	-- multiple items on this id, add the consumable 3 times
-	[BASE_ITEM_ID + 00004] = { { "toggle" }, { "consumable", nil, 3 } }
+	-- TODO: Halo 4 skulls (904xx -> Skull_4_*)
 }

@@ -128,8 +128,8 @@
     }, {
         "name": "Pinata Skull",
         "type": "toggle",
-        "img": "images/items/Piñata.png",
-        "codes": "Skull_Reach_Piñata"
+        "img": "images/items/Pinata.png",
+        "codes": "Skull_Reach_Pinata"
     }, {
         "name": "Prophet Birthday Party Skull",
         "type": "toggle",
