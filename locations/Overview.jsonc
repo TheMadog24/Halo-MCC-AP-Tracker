@@ -59,24 +59,34 @@
 						"ref": "Halo CE/Halo/Boom Skull"
                     }, {
                         "name": "Foreign",
+						"ref": "Halo CE/The Truth and Reconciliation/Foreign Skull"
                     }, {
                         "name": "Famine",
+						"ref": "Halo CE/The Silent Cartographer/Famine Skull"
                     }, {
                         "name": "Bandana",
+						"ref": "Halo CE/The Silent Cartographer/Bandana Skull"
                     }, {
                         "name": "Fog",
+						"ref": "Halo CE/Assault on the Control Room/Fog Skull"
                     }, {
                         "name": "Malfunction",
+						"ref": "Halo CE/Assault on the Control Room/Malfunction Skull"
                     }, {
                         "name": "Recession",
+						"ref": "Halo CE/343 Guilty Spark/Recession Skull"
                     }, {
                         "name": "Black Eye",
+						"ref": "Halo CE/The Library/Black Eye Skull"
                     }, {
                         "name": "Eye Patch",
+						"ref": "Halo CE/The Library/Eye Patch Skull"
                     }, {
                         "name": "Pinata",
+						"ref": "Halo CE/Two Betrayals/Pinata Skull"
                     }, {
                         "name": "Grunt Birthday Party",
+						"ref": "Halo CE/The Maw/Grunt Birthday Party Skull"
                     }
                 ],
                 "map_locations": [{

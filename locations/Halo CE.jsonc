@@ -58,16 +58,25 @@
                 ]
             }, {
                 "name": "The Truth and Reconciliation",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|3"],
+                "sections": [
+					{
+                        "name": "The Truth and Reconciliation",
+                    },
+					{
+                        "name": "Into the Belly of the Beast",
+                    },
+					{
                         "name": "Foreign Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "Shut Up and Get Behind me... Sir",
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|3"]
                     }
                 ],
                 "map_locations": [{
@@ -78,19 +87,29 @@
                 ]
             }, {
                 "name": "The Silent Cartographer",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|4"],
+                "sections": [
+					{
+                        "name": "The Silent Cartographer",
+                    },
+					{
                         "name": "Famine Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "Its Quiet...",
+                    },
+					{
                         "name": "Bandana Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "Shafted",
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|4"]
                     }
                 ],
                 "map_locations": [{
@@ -101,19 +120,29 @@
                 ]
             }, {
                 "name": "Assault on the Control Room",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|5"],
+                "sections": [
+					{
+                        "name": "I Would Have Been Your Daddy...",
+                    },
+					{
                         "name": "Fog Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "Rolling Thunder",
+                    },
+					{
                         "name": "Malfunction Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "If I Had a Super Weapon...",
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|5"]
                     }
                 ],
                 "map_locations": [{
@@ -124,16 +153,25 @@
                 ]
             }, {
                 "name": "343 Guilty Spark",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|6"],
+                "sections": [
+					{
+                        "name": "Well Enough Alone",
+                    },
+					{
                         "name": "Recession Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "The Flood",
+                    },
+					{
+                        "name": "343 Guilty Spark",
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|6"]
                     }
                 ],
                 "map_locations": [{
@@ -144,19 +182,32 @@
                 ]
             }, {
                 "name": "The Library",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|7"],
+                "sections": [
+					{
+                        "name": "The Library",
+                    },
+					{
                         "name": "Black Eye Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "Wait, it Gets Worse!",
+                    },
+					{
                         "name": "Eye Patch Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "But I Don't Want to Ride the Elevator!",
+                    },
+					{
+                        "name": "Fourth Floor: Tools, Guns, Keys To Super Weapons",
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|7"]
                     }
                 ],
                 "map_locations": [{
@@ -167,16 +218,28 @@
                 ]
             }, {
                 "name": "Two Betrayals",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|8"],
+                "sections": [
+					{
+                        "name": "The Gun Pointed at the Head of the Universe",
+                    },
+					{
+                        "name": "Breaking Stuff to look Tough",
+                    },
+					{
                         "name": "Pinata Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
+                        "name": "The Tunnels Below",
+                    },
+					{
+                        "name": "Final Run",
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|8"]
                     }
                 ],
                 "map_locations": [{
@@ -187,13 +250,21 @@
                 ]
             }, {
                 "name": "Keyes",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|9"],
+                "sections": [
+					{
+                        "name": "Under New Management",
+                    },
+					{
+                        "name": "Upstairs, Downstairs",
+                    },
+					{
+                        "name": "The Captain",
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|9"]
                     }
                 ],
                 "map_locations": [{
@@ -204,16 +275,25 @@
                 ]
             }, {
                 "name": "The Maw",
-                "access_rules": [
-                    //read as: progressive_toggle_2 and has more than 4 consumable
-                    "progressive_toggle_2, $has_more_then_n_consumable|4"
-                ],
-                "sections": [{
+                "access_rules": ["$mission_open|ce|10"],
+                "sections": [
+					{
+                        "name": "...And the Horse You Rode in On",
+                    },
+					{
+                        "name": "Light Fuse, Run Away",
+                    },
+					{
+                        "name": "Warning: Hitchhikers May Be Escaping Convicts",
+                    },
+					{
                         "name": "Grunt Birthday Party Skull",
-                        "item_count": 1
-                    }, {
+						"visibility_rules": ["ce_skull_pickups"]
+                    },
+					{
                         "name": "Level Complete",
-                        "item_count": 1
+                        "access_rules": ["$skulls_ok|ce"],
+                        "visibility_rules": ["$not_final|ce|10"]
                     }
                 ],
                 "map_locations": [{
