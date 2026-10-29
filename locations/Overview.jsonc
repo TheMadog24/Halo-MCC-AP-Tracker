@@ -1,42 +1,37 @@
 [{
         "name": "Overview",
         "children": [{
-                "name": "HALO: CE",
-                "access_rules": [
-                    //read as: progressive_2 or toggle
-                    "progressive_2",
-                    "toggle"
-                ],
+                "name": "Halo CE",
                 "sections": [{
                         "name": "The Pillar of Autumn",
-                        "item_count": 1
+                        "ref": "Halo CE/The Pillar of Autumn/Level Complete"
                     }, {
                         "name": "Halo",
-                        "item_count": 1
+                        "ref": "Halo CE/Halo/Level Complete"
                     }, {
                         "name": "The Truth and Reconciliation",
-                        "item_count": 1
+                        "ref": "Halo CE/The Truth and Reconciliation/Level Complete"
                     }, {
                         "name": "The Silent Cartographer",
-                        "item_count": 1
+                        "ref": "Halo CE/The Silent Cartographer/Level Complete"
                     }, {
                         "name": "Assault on the Control Room",
-                        "item_count": 1
+                        "ref": "Halo CE/Assault on the Control Room/Level Complete"
                     }, {
                         "name": "343 Guilty Spark",
-                        "item_count": 1
+                        "ref": "Halo CE/343 Guilty Spark/Level Complete"
                     }, {
                         "name": "The Library",
-                        "item_count": 1
+                        "ref": "Halo CE/The Library/Level Complete"
                     }, {
                         "name": "Two Betrayals",
-                        "item_count": 1
+                        "ref": "Halo CE/Two Betrayals/Level Complete"
                     }, {
                         "name": "Keyes",
-                        "item_count": 1
+                        "ref": "Halo CE/Keyes/Level Complete"
                     }, {
                         "name": "The Maw",
-                        "item_count": 1
+                        "ref": "Halo CE/The Maw/Level Complete"
                     }
                 ],
                 "map_locations": [{
@@ -52,45 +47,36 @@
                     "progressive_2",
                     "toggle"
                 ],
+				"visibility_rules": ["ce_skull_pickups"],
                 "sections": [{
                         "name": "Iron",
-                        "item_count": 1
+						"ref": "Halo CE/The Pillar of Autumn/Iron Skull"
                     }, {
                         "name": "Mythic",
-                        "item_count": 1
+						"ref": "Halo CE/Halo/Mythic Skull"
                     }, {
                         "name": "Boom",
-                        "item_count": 1
+						"ref": "Halo CE/Halo/Boom Skull"
                     }, {
                         "name": "Foreign",
-                        "item_count": 1
                     }, {
                         "name": "Famine",
-                        "item_count": 1
                     }, {
                         "name": "Bandana",
-                        "item_count": 1
                     }, {
                         "name": "Fog",
-                        "item_count": 1
                     }, {
                         "name": "Malfunction",
-                        "item_count": 1
                     }, {
                         "name": "Recession",
-                        "item_count": 1
                     }, {
                         "name": "Black Eye",
-                        "item_count": 1
                     }, {
                         "name": "Eye Patch",
-                        "item_count": 1
                     }, {
                         "name": "Pinata",
-                        "item_count": 1
                     }, {
                         "name": "Grunt Birthday Party",
-                        "item_count": 1
                     }
                 ],
                 "map_locations": [{

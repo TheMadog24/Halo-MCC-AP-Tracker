@@ -12,8 +12,16 @@ ITEM_MAPPING = {
 	-- [BASE_ITEM_ID + 00004] = { { "toggle" }, { "consumable", nil, 3 } },
 	
 	-- CE:
-	[101000] = {{ "ce_access_1", "toggle" }},
-	-- TODO: Rest of CE mission access
+	[101000] = { { "ce_access_1", "toggle" } },
+	[102000] = { { "ce_access_2", "toggle" } },
+	[103000] = { { "ce_access_3", "toggle" } },
+	[104000] = { { "ce_access_4", "toggle" } },
+	[105000] = { { "ce_access_5", "toggle" } },
+	[106000] = { { "ce_access_6", "toggle" } },
+	[107000] = { { "ce_access_7", "toggle" } },
+	[108000] = { { "ce_access_8", "toggle" } },
+	[109000] = { { "ce_access_9", "toggle" } },
+	[110000] = { { "ce_access_10", "toggle" } },
 
 	-- TODO: H2, H3, REACH, H4 mission access items
 

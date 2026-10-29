@@ -14,8 +14,15 @@ LOCATION_MAPPING = {
 	[101000] = {{ "@Halo CE/The Pillar of Autumn/Level Complete" }},
 	[101011] = {{ "@Halo CE/The Pillar of Autumn/Reveille" }},
 	[101012] = {{ "@Halo CE/The Pillar of Autumn/AI Constructs and Cyborgs First!" }},
-	[101021] = {{ "@Halo CE/The Pillar of Autumn/Iron Skull" }}
+	[101021] = {{ "@Halo CE/The Pillar of Autumn/Iron Skull" }},
 	-- TODO: Rest of CE locations
+	[102000] = {{ "@Halo CE/Halo/Level Complete" }},
+	[102011] = {{ "@Halo CE/Halo/Flawless Cowboy" }},
+	[102012] = {{ "@Halo CE/Halo/Reunion Tour" }},
+	[102021] = {{ "@Halo CE/Halo/Mythic Skull" }},
+	[102022] = {{ "@Halo CE/Halo/Boom Skull" }},
+	
+	
 
 	-- TODO: Other game's locations
 }
