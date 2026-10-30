@@ -196,7 +196,61 @@
         "type": "toggle",
         "img": "", // TODO: add image and layout spot for access item
         "codes": "ce_access_1"
+    },
+    {
+        "name": "Halo Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_2"
+    },
+    {
+        "name": "The Truth and Reconciliation Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_3"
+    },
+    {
+        "name": "The Silent Cartographer Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_4"
+    },
+    {
+        "name": "Assault on the Control Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_5"
+    },
+    {
+        "name": "343 Guilty Spark Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_6"
+    },
+    {
+        "name": "The Library Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_7"
+    },
+    {
+        "name": "Two Betrayals Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_8"
+    },
+    {
+        "name": "Keyes Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_9"
+    },
+    {
+        "name": "The Maw Access",
+        "type": "toggle",
+        "img": "", // TODO: add image and layout spot for access item
+        "codes": "ce_access_10"
     }
-    // TODO: Add { "name": "mission name", etc. } for the other mission access items in CE. Also add to layout somewhere.
+    // TODO: Also add to layout somewhere. (If we decide on that)
     // Will need to do same for other games
 ]
