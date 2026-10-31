@@ -16,7 +16,7 @@
                     },
                     { 
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|1"]
                     }
                 ],
@@ -46,7 +46,7 @@
                     },
 					{ 
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|2"]
                     }
                 ],
@@ -75,7 +75,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|3"]
                     }
                 ],
@@ -108,7 +108,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|4"]
                     }
                 ],
@@ -141,7 +141,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|5"]
                     }
                 ],
@@ -170,7 +170,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|6"]
                     }
                 ],
@@ -206,7 +206,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|7"]
                     }
                 ],
@@ -238,7 +238,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|8"]
                     }
                 ],
@@ -263,7 +263,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|9"]
                     }
                 ],
@@ -292,7 +292,7 @@
                     },
 					{
                         "name": "Level Complete",
-                        "access_rules": ["$skulls_ok|ce"],
+                        "access_rules": ["[$skulls_ok|ce]"],
                         "visibility_rules": ["$not_final|ce|10"]
                     }
                 ],
