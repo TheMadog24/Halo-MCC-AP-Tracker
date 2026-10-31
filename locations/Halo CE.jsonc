@@ -1,5 +1,6 @@
 [{
         "name": "Halo CE",
+		"visibility_rules": ["$game_enabled|ce"],
         "children": [{
                 "name": "The Pillar of Autumn", // TODO: need to update overview entry to match this
                 "access_rules": ["$mission_open|ce|1"], // this is `mission_open(ce, 1)` see scripts/logic/logic.lua

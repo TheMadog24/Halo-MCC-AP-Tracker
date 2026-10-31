@@ -1,5 +1,6 @@
 [{
         "name": "Halo: Reach",
+		"visibility_rules": ["$game_enabled|reach"],
         "children": [{
                 "name": "Noble Actual",
                 "access_rules": [

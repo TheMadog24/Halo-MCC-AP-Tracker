@@ -35,7 +35,6 @@
                             }
                         }, {
                             "title": "Halo CE",
-                            "visibility_rules": ["game_enabled|ce"],
                             "content": {
                                 "type": "dock",
                                 "content": [{
@@ -46,7 +45,6 @@
                             }
                         }, {
                             "title": "Halo Reach",
-                            "visibility_rules": ["game_enabled|reach"],
                             "content": {
                                 "type": "dock",
                                 "content": [{
@@ -57,7 +55,6 @@
                             }
                         }, {
                             "title": "Halo 2",
-                            "visibility_rules": ["game_enabled|h2"],
                             "content": {
                                 "type": "dock",
                                 "content": [{
@@ -68,7 +65,6 @@
                             }
                         }, {
                             "title": "Halo 3",
-                            "visibility_rules": ["game_enabled|h3"],
                             "content": {
                                 "type": "dock",
                                 "content": [{
