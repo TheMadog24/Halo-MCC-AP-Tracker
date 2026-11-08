@@ -2,7 +2,7 @@
         "name": "Overview",
         "children": [{
                 "name": "Halo CE",
-				"visibility_rules": ["game_enabled|ce"],
+				"visibility_rules": ["$game_enabled|ce"],
                 "sections": [{
                         "name": "The Pillar of Autumn",
                         "ref": "Halo CE/The Pillar of Autumn/Level Complete"

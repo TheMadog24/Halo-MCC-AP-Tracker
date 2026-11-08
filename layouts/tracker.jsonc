@@ -16,10 +16,10 @@
                                 "content": [{
 									"type": "dock",
 									"dock": "bottom",
-									"content": {
+									"content": [{
 										"type": "layout",
 										"key": "Overview_Skulls"
-									}
+									}]
 								},{
                                         "type": "map",
                                         "maps": ["Overview"]
@@ -28,16 +28,15 @@
                             }
                         }, {
                             "title": "Halo CE",
-                            "visibility_rules": ["game_enabled|ce"],
                             "content": {
                                 "type": "dock",
                                 "content": [{
 									"type": "dock",
 									"dock": "bottom",
-									"content": {
+									"content": [{
 										"type": "layout",
 										"key": "Halo_CE_Skulls"
-									}
+									}]
 								},{
                                         "type": "map",
                                         "maps": ["Halo CE"]
@@ -51,10 +50,10 @@
                                 "content": [{
 									"type": "dock",
 									"dock": "bottom",
-									"content": {
+									"content": [{
 										"type": "layout",
 										"key": "Halo_Reach_Skulls"
-									}
+									}]
 								},{
                                         "type": "map",
                                         "maps": ["Halo Reach"]
@@ -68,10 +67,10 @@
                                 "content": [{
 									"type": "dock",
 									"dock": "bottom",
-									"content": {
+									"content": [{
 										"type": "layout",
 										"key": "Halo_2_Skulls"
-									}
+									}]
 								},{
                                         "type": "map",
                                         "maps": ["Halo 2"]
@@ -85,10 +84,10 @@
                                 "content": [{
 									"type": "dock",
 									"dock": "bottom",
-									"content": {
+									"content": [{
 										"type": "layout",
 										"key": "Halo_3_Skulls"
-									}
+									}]
 								},{
                                         "type": "map",
                                         "maps": ["Halo 3"]
