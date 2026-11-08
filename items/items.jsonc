@@ -1,229 +1,229 @@
 [
     //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
     {
-        "name": "Acrophobia Skull",
+        "name": "All Acrophobia Skulls",
         "type": "toggle",
         "img": "images/items/Acrophobia.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Acrophobia"
     }, {
-        "name": "Anger Skull",
+        "name": "All Anger Skulls",
         "type": "toggle",
         "img": "images/items/Anger.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Anger"
     }, {
-        "name": "Assassins Skull",
+        "name": "All Assassins Skulls",
         "type": "toggle",
         "img": "images/items/Assassins.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Assassins"
     }, {
-        "name": "Bandana Skull",
+        "name": "All Bandana Skulls",
         "type": "toggle",
         "img": "images/items/Bandanna.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Bandanna"
     }, {
-        "name": "Black Eye Skull",
+        "name": "All Black Eye Skulls",
         "type": "toggle",
         "img": "images/items/Black Eye.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Black_Eye"
     }, {
-        "name": "Blind Skull",
+        "name": "All Blind Skulls",
         "type": "toggle",
         "img": "images/items/Blind.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Blind"
     }, {
-        "name": "Bonded Pair Skull",
+        "name": "All Bonded Pair Skulls",
         "type": "toggle",
         "img": "images/items/Bonded Pair.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Bonded_Pair"
     }, {
-        "name": "Boom Skull",
+        "name": "All Boom Skulls",
         "type": "toggle",
         "img": "images/items/Boom.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Boom"
     }, {
-        "name": "Catch Skull",
+        "name": "All Catch Skulls",
         "type": "toggle",
         "img": "images/items/Catch.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Catch"
     }, {
-        "name": "Cowbell Skull",
+        "name": "All Cowbell Skulls",
         "type": "toggle",
         "img": "images/items/Cowbell.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Cowbell"
     }, {
-        "name": "Envy Skull",
+        "name": "All Envy Skulls",
         "type": "toggle",
         "img": "images/items/Envy.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Envy"
     }, {
-        "name": "Eye Patch Skull",
+        "name": "All Eye Patch Skulls",
         "type": "toggle",
         "img": "images/items/Eye Patch.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Eye_Patch"
     }, {
-        "name": "Famine Skull",
+        "name": "All Famine Skulls",
         "type": "toggle",
         "img": "images/items/Famine.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Famine"
     }, {
-        "name": "Feather Skull",
+        "name": "All Feather Skulls",
         "type": "toggle",
         "img": "images/items/Feather.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Feather"
     }, {
-        "name": "Fog Skull",
+        "name": "All Fog Skulls",
         "type": "toggle",
         "img": "images/items/Fog.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Fog"
     }, {
-        "name": "Foreign Skull",
+        "name": "All Foreign Skulls",
         "type": "toggle",
         "img": "images/items/Foreign.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Foreign"
     }, {
-        "name": "Ghost Skull",
+        "name": "All Ghost Skulls",
         "type": "toggle",
         "img": "images/items/Ghost.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Ghost"
     }, {
-        "name": "Grunt Birthday Party Skull",
+        "name": "All Grunt Birthday Party Skulls",
         "type": "toggle",
         "img": "images/items/Grunt Birthday Party.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Grunt_Birthday_Party"
     }, {
-        "name": "Grunt Funeral Skull",
+        "name": "All Grunt Funeral Skulls",
         "type": "toggle",
         "img": "images/items/Grunt Funeral.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Grunt_Funeral"
     }, {
-        "name": "Iron Skull",
+        "name": "All Iron Skulls",
         "type": "toggle",
         "img": "images/items/Iron.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Iron"
     }, {
-        "name": "IWHBYD Skull",
+        "name": "All IWHBYD Skulls",
         "type": "toggle",
         "img": "images/items/IWHBYD.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_IWHBYD"
     }, {
-        "name": "Jacked Skull",
+        "name": "All Jacked Skulls",
         "type": "toggle",
         "img": "images/items/Jacked.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Jacked"
     }, {
-        "name": "Malfunction Skull",
+        "name": "All Malfunction Skulls",
         "type": "toggle",
         "img": "images/items/Malfunction.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Malfunction"
     }, {
-        "name": "Masterblaster Skull",
+        "name": "All Masterblaster Skulls",
         "type": "toggle",
         "img": "images/items/Masterblaster.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Masterblaster"
     }, {
-        "name": "Mythic Skull",
+        "name": "All Mythic Skulls",
         "type": "toggle",
         "img": "images/items/Mythic.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Mythic"
     }, {
-        "name": "Pinata Skull",
+        "name": "All Pinata Skulls",
         "type": "toggle",
         "img": "images/items/Pinata.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Pinata"
     }, {
-        "name": "Prophet Birthday Party Skull",
+        "name": "All Prophet Birthday Party Skulls",
         "type": "toggle",
         "img": "images/items/Prophet Birthday Party.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Prophet_Birthday_Party"
     }, {
-        "name": "Recession Skull",
+        "name": "All Recession Skulls",
         "type": "toggle",
         "img": "images/items/Recession.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Recession"
     }, {
-        "name": "Scarab Skull",
+        "name": "All Scarab Skulls",
         "type": "toggle",
         "img": "images/items/Scarab.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Scarab"
     }, {
-        "name": "SO... ANGRY... Skull",
+        "name": "All SO... ANGRY... Skulls",
         "type": "toggle",
         "img": "images/items/So Angry.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_So_Angry"
     }, {
-        "name": "Sputnik Skull",
+        "name": "All Sputnik Skulls",
         "type": "toggle",
         "img": "images/items/Sputnik.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Sputnik"
     }, {
-        "name": "Streaking Skull",
+        "name": "All Streaking Skulls",
         "type": "toggle",
         "img": "images/items/Streaking.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Streaking"
     }, {
-        "name": "Swarm Skull",
+        "name": "All Swarm Skulls",
         "type": "toggle",
         "img": "images/items/Swarm.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Swarm"
     }, {
-        "name": "That's Just... Wrong Skull",
+        "name": "All That's Just... Wrong Skulls",
         "type": "toggle",
         "img": "images/items/That's Just Wrong.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_That's_Just_Wrong"
     }, {
-        "name": "They Come Back Skull",
+        "name": "All They Come Back Skulls",
         "type": "toggle",
         "img": "images/items/They Come Back.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_They_Come_Back"
     }, {
-        "name": "Thunderstorm Skull",
+        "name": "All Thunderstorm Skulls",
         "type": "toggle",
         "img": "images/items/Thunderstorm.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Thunderstorm"
     }, {
-        "name": "Tilt Skull",
+        "name": "All Tilt Skulls",
         "type": "toggle",
         "img": "images/items/Tilt.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Tilt"
     }, {
-        "name": "Tough Luck Skull",
+        "name": "All Tough Luck Skulls",
         "type": "toggle",
         "img": "images/items/Tough Luck.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",

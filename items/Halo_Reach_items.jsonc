@@ -1,229 +1,229 @@
 [
     //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
     {
-        "name": "Acrophobia Skull",
+        "name": "Halo Reach Acrophobia Skull",
         "type": "toggle",
         "img": "images/items/Acrophobia.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Acrophobia"
     }, {
-        "name": "Anger Skull",
+        "name": "Halo Reach Anger Skull",
         "type": "toggle",
         "img": "images/items/Anger.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Anger"
     }, {
-        "name": "Assassins Skull",
+        "name": "Halo Reach Assassins Skull",
         "type": "toggle",
         "img": "images/items/Assassins.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Assassins"
     }, {
-        "name": "Bandana Skull",
+        "name": "Halo Reach Bandana Skull",
         "type": "toggle",
         "img": "images/items/Bandanna.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Bandanna"
     }, {
-        "name": "Black Eye Skull",
+        "name": "Halo Reach Black Eye Skull",
         "type": "toggle",
         "img": "images/items/Black Eye.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Black_Eye"
     }, {
-        "name": "Blind Skull",
+        "name": "Halo Reach Blind Skull",
         "type": "toggle",
         "img": "images/items/Blind.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Blind"
     }, {
-        "name": "Bonded Pair Skull",
+        "name": "Halo Reach Bonded Pair Skull",
         "type": "toggle",
         "img": "images/items/Bonded Pair.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Bonded_Pair"
     }, {
-        "name": "Boom Skull",
+        "name": "Halo Reach Boom Skull",
         "type": "toggle",
         "img": "images/items/Boom.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Boom"
     }, {
-        "name": "Catch Skull",
+        "name": "Halo Reach Catch Skull",
         "type": "toggle",
         "img": "images/items/Catch.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Catch"
     }, {
-        "name": "Cowbell Skull",
+        "name": "Halo Reach Cowbell Skull",
         "type": "toggle",
         "img": "images/items/Cowbell.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Cowbell"
     }, {
-        "name": "Envy Skull",
+        "name": "Halo Reach Envy Skull",
         "type": "toggle",
         "img": "images/items/Envy.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Envy"
     }, {
-        "name": "Eye Patch Skull",
+        "name": "Halo Reach Eye Patch Skull",
         "type": "toggle",
         "img": "images/items/Eye Patch.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Eye_Patch"
     }, {
-        "name": "Famine Skull",
+        "name": "Halo Reach Famine Skull",
         "type": "toggle",
         "img": "images/items/Famine.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Famine"
     }, {
-        "name": "Feather Skull",
+        "name": "Halo Reach Feather Skull",
         "type": "toggle",
         "img": "images/items/Feather.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Feather"
     }, {
-        "name": "Fog Skull",
+        "name": "Halo Reach Fog Skull",
         "type": "toggle",
         "img": "images/items/Fog.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Fog"
     }, {
-        "name": "Foreign Skull",
+        "name": "Halo Reach Foreign Skull",
         "type": "toggle",
         "img": "images/items/Foreign.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Foreign"
     }, {
-        "name": "Ghost Skull",
+        "name": "Halo Reach Ghost Skull",
         "type": "toggle",
         "img": "images/items/Ghost.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Ghost"
     }, {
-        "name": "Grunt Birthday Party Skull",
+        "name": "Halo Reach Grunt Birthday Party Skull",
         "type": "toggle",
         "img": "images/items/Grunt Birthday Party.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Grunt_Birthday_Party"
     }, {
-        "name": "Grunt Funeral Skull",
+        "name": "Halo Reach Grunt Funeral Skull",
         "type": "toggle",
         "img": "images/items/Grunt Funeral.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Grunt_Funeral"
     }, {
-        "name": "Iron Skull",
+        "name": "Halo Reach Iron Skull",
         "type": "toggle",
         "img": "images/items/Iron.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Iron"
     }, {
-        "name": "IWHBYD Skull",
+        "name": "Halo Reach IWHBYD Skull",
         "type": "toggle",
         "img": "images/items/IWHBYD.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_IWHBYD"
     }, {
-        "name": "Jacked Skull",
+        "name": "Halo Reach Jacked Skull",
         "type": "toggle",
         "img": "images/items/Jacked.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Jacked"
     }, {
-        "name": "Malfunction Skull",
+        "name": "Halo Reach Malfunction Skull",
         "type": "toggle",
         "img": "images/items/Malfunction.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Malfunction"
     }, {
-        "name": "Masterblaster Skull",
+        "name": "Halo Reach Masterblaster Skull",
         "type": "toggle",
         "img": "images/items/Masterblaster.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Masterblaster"
     }, {
-        "name": "Mythic Skull",
+        "name": "Halo Reach Mythic Skull",
         "type": "toggle",
         "img": "images/items/Mythic.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Mythic"
     }, {
-        "name": "Pinata Skull",
+        "name": "Halo Reach Pinata Skull",
         "type": "toggle",
         "img": "images/items/Pinata.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Pinata"
     }, {
-        "name": "Prophet Birthday Party Skull",
+        "name": "Halo Reach Prophet Birthday Party Skull",
         "type": "toggle",
         "img": "images/items/Prophet Birthday Party.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Prophet_Birthday_Party"
     }, {
-        "name": "Recession Skull",
+        "name": "Halo Reach Recession Skull",
         "type": "toggle",
         "img": "images/items/Recession.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Recession"
     }, {
-        "name": "Scarab Skull",
+        "name": "Halo Reach Scarab Skull",
         "type": "toggle",
         "img": "images/items/Scarab.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Scarab"
     }, {
-        "name": "SO... ANGRY... Skull",
+        "name": "Halo Reach SO... ANGRY... Skull",
         "type": "toggle",
         "img": "images/items/So Angry.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_So_Angry"
     }, {
-        "name": "Sputnik Skull",
+        "name": "Halo Reach Sputnik Skull",
         "type": "toggle",
         "img": "images/items/Sputnik.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Sputnik"
     }, {
-        "name": "Streaking Skull",
+        "name": "Halo Reach Streaking Skull",
         "type": "toggle",
         "img": "images/items/Streaking.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Streaking"
     }, {
-        "name": "Swarm Skull",
+        "name": "Halo Reach Swarm Skull",
         "type": "toggle",
         "img": "images/items/Swarm.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Swarm"
     }, {
-        "name": "That's Just... Wrong Skull",
+        "name": "Halo Reach That's Just... Wrong Skull",
         "type": "toggle",
         "img": "images/items/That's Just Wrong.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_That's_Just_Wrong"
     }, {
-        "name": "They Come Back Skull",
+        "name": "Halo Reach They Come Back Skull",
         "type": "toggle",
         "img": "images/items/They Come Back.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_They_Come_Back"
     }, {
-        "name": "Thunderstorm Skull",
+        "name": "Halo Reach Thunderstorm Skull",
         "type": "toggle",
         "img": "images/items/Thunderstorm.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Thunderstorm"
     }, {
-        "name": "Tilt Skull",
+        "name": "Halo Reach Tilt Skull",
         "type": "toggle",
         "img": "images/items/Tilt.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
         "codes": "Skull_Reach_Tilt"
     }, {
-        "name": "Tough Luck Skull",
+        "name": "Halo Reach Tough Luck Skull",
         "type": "toggle",
         "img": "images/items/Tough Luck.png",
 		"disabled_img_mods": "@disabled, overlay|images/items/lock.png|greyscale",
