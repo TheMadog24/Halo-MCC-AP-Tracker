@@ -51,6 +51,7 @@ Tracker:AddLayouts("layouts/Halo_CE_items.json")
 Tracker:AddLayouts("layouts/Halo_Reach_Items.json")
 Tracker:AddLayouts("layouts/Halo_2_Items.json")
 Tracker:AddLayouts("layouts/Halo_3_Items.json")
+Tracker:AddLayouts("layouts/Overview_items.json")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then
